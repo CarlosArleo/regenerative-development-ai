@@ -1,396 +1,872 @@
-# Complete Practitioner's Guide: Regenerative Multi-Stage System
+# Case Study Template
+
+Use this template to document your regenerative development project using the AI system.
 
 ---
 
-## **Overview: The Three-Stage Journey**
+## Project Overview
 
-This system supports **community-centered regenerative development** in three distinct phases:
+### Basic Information
 
-```
-STAGE 1: Ask The Right Questions
-↓
-[Practitioner goes to field and conducts workshops]
-↓
-STAGE 2: Listen Deeply & Synthesize
-↓
-[Practitioner validates insights with community]
-↓
-STAGE 3: Generate Design Brief
-```
+**Project Name:** [e.g., Riverside Commons Housing Project]
 
-**Key Principle:** The AI helps you **ask and synthesize**, but YOU and the community make all decisions.
+**Location:** [City/Region, Country]
 
----
+**Project Type:**
 
-## **STAGE 1: Generate Inquiry Questions**
+* [ ] Planning opposition / alternative vision
+* [ ] Community land trust
+* [ ] Housing cooperative
+* [ ] Community asset transfer
+* [ ] Food/agriculture project
+* [ ] Commons governance
+* [ ] Other: _______________
 
-### **What It Does:**
+**Timeline:**
 
-Creates culturally-appropriate workshop questions for each stakeholder group and a complete 6-hour workshop protocol.
+* Project start: [Date]
+* Stage 1 completed: [Date]
+* Stage 2 completed: [Date]
+* Stage 3 completed: [Date]
+* Stage 4 completed: [Date]
+* Implementation started: [Date] or [Planned]
 
-### **When To Use It:**
+**Practitioner:** [Name or Anonymous]
 
-- At the **beginning** of a new project
-- When you know the place and tensions, but haven't engaged the community yet
-- Before going into the field
+**Community Size:** [Number of households/people affected]
 
-### **What You Input (The Form):**
+**Status:**
 
-| Field                         | What It Is                                     | Example                                            |
-| ----------------------------- | ---------------------------------------------- | -------------------------------------------------- |
-| **Project Name**        | Name of your initiative                        | "San Martino Water Commons"                        |
-| **Location Name**       | The specific place                             | "San Martino di Castrozza"                         |
-| **Current Tensions**    | Problems the community faces (comma-separated) | "water scarcity, youth migration, knowledge loss"  |
-| **Historical Patterns** | What used to work well (comma-separated)       | "waale system maintenance, collective stewardship" |
-| **Bioregion**           | Larger ecological context                      | "Primiero Valley, Italian Dolomites"               |
-| **Stakeholder Types**   | Who to talk to (checkboxes)                    | ☑ Elders, ☑ Young Returnees, ☑ Municipal Staff  |
-
-### **What You Get:**
-
-#### **1. Inquiry Questions by Stakeholder Group**
-
-For EACH stakeholder you selected, you get:
-
-- 15-20 deep, culturally-sensitive questions
-- Organized into 4 thematic categories
-- Usage guidance for how to facilitate
-
-**Example for Elders:**
-
-```
-Category: "Memories of the Living Place"
-Questions:
-- "If you close your eyes and remember this place as a young person, 
-   what sounds come to you first?"
-- "Who were the teachers that taught you how to 'read' the water?"
-```
-
-#### **2. Complete 6-Hour Workshop Protocol**
-
-Three sequential sessions:
-
-- **Session 1:** First stakeholder group (1.5 hours)
-- **Session 2:** Second stakeholder group (1.5 hours)
-- **Session 3:** Cross-pollination walk (3 hours)
-
-Each session includes:
-
-- Opening ritual/activity
-- Core inquiry questions
-- Synthesis method
-- Closing activity
-- Materials list
-- Preparation steps
-
-**Example from Your Output:**
-
-```
-Session 1: "La Voz de la Memoria" (Voice of Memory)
-- Elders gather in circle
-- Share "chivo" (local drink)
-- Tell stories about healthy relationships with land
-- Create "Living Metaphor" artifact on plantain leaf
-- Offer blessing for youth
-```
-
-### **What To Do Next:**
-
-1. **Print the questions** for each stakeholder group
-2. **Review the workshop protocol**
-3. **Gather materials** (listed in protocol)
-4. **Go to the field**
-5. **Conduct the workshops** over 1-2 weeks
-6. **Document everything:**
-   - Direct quotes from participants
-   - Emotional moments
-   - Recurring themes
-   - Stories about the past
-   - Visions for the future
-   - Contradictions or tensions
+* [ ] Completed
+* [ ] In progress
+* [ ] Pilot only
 
 ---
 
-## **STAGE 2: Process Stakeholder Responses**
+## Executive Summary
 
-### **What It Does:**
+**One-paragraph description of the project:**
 
-Synthesizes workshop responses, assesses the health of essential ecological/social processes, and validates if you understand the place deeply enough to proceed to design.
+[Provide 3-5 sentence summary covering: context, intervention, use of system, key outcomes]
 
-### **When To Use It:**
+**Key Results:**
 
-- **After** conducting the workshops from Stage 1
-- When you have documented responses from multiple stakeholder groups
-- Before attempting any design work
+* [Result 1]
+* [Result 2]
+* [Result 3]
 
-### **What You Input (The Form):**
+**Time Saved:** [e.g., "8 weeks of synthesis work → 6 hours"]
 
-| Field                              | What It Is                                     | Example                                                                                                |
-| ---------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| **Project Name**             | Same as Stage 1                                | "San Martino Water Commons"                                                                            |
-| **Location Name**            | Same as Stage 1                                | "San Martino di Castrozza"                                                                             |
-| **Current Tensions**         | Same as Stage 1                                | "water scarcity, youth migration"                                                                      |
-| **Elder Responses**          | Real quotes from elder workshop (one per line) | "The waale was maintained by everyone together.`<br>`Young people don't understand water is a gift." |
-| **Youth Responses**          | Real quotes from youth workshop                | "We see potential in abandoned terraces.`<br>`Need secure water access for new businesses."          |
-| **Municipal Responses**      | Real quotes from staff workshop                | "Budget constraints limit our actions.`<br>`Community engagement is key."                            |
-| **Landscape Observations**   | What you noticed about non-human world         | "The mangroves are the lungs of the coast.`<br>`Birds return when forest is healthy."                |
-| **Place Essence Hypothesis** | Your initial sense of the place's core story   | "A bridge between mountain and valley asking to reconnect"                                             |
-
-### **What You Get:**
-
-#### **1. Essential Processes Assessment**
-
-Analysis of 8 core regenerative processes:
-
-| Process                 | Health Score | What It Means                                |
-| ----------------------- | ------------ | -------------------------------------------- |
-| **Nourishment**   | 35%          | "Water and nutrient flows are degraded"      |
-| **Identity**      | 80%          | "Cultural identity is strong and intact"     |
-| **Participation** | 65%          | "Some engagement, but youth disconnected"    |
-| **Reciprocity**   | 40%          | "Take-and-give balance is broken"            |
-| **Potential**     | 70%          | "Latent capacity exists but not activated"   |
-| **Integration**   | 50%          | "Generations not communicating well"         |
-| **Whole-Part**    | 60%          | "Individual actions disconnected from whole" |
-| **Co-evolution**  | 45%          | "Relationship with place is weakening"       |
-
-#### **2. Updated Place Essence**
-
-Refined articulation of the place's core story:
-
-```
-"Mountain-valley bridge seeking reconnection through water, 
-where elder wisdom and youth energy meet to restore 
-the waale system as a living commons"
-```
-
-#### **3. Confidence Level**
-
-How sure the system is about understanding the place:
-
-- **High/Validated:** Ready for Stage 3 (design)
-- **Medium:** Need validation with community
-- **Low:** Need more inquiry (return to Stage 1)
-
-#### **4. Next Step Instructions**
-
-Clear guidance on what to do:
-
-```
-If HIGH confidence:
-→ "Validate this essence with the community. 
-   If they say YES, proceed to Stage 3."
-
-If LOW confidence:
-→ "Conduct additional inquiry focused on: [specific area]
-   Return to Stage 1 with new questions."
-```
-
-### **What To Do Next:**
-
-1. **Review the Essential Processes Assessment**
-   * Which processes are most degraded?
-   * Which are strong?
-   * What does this tell you about intervention priorities?
-2. **Take the Place Essence back to the community**
-   * Does it resonate?
-   * Does it capture their truth?
-   * What needs refinement?
-3. **If community validates → Stage 3**
-4. **If community questions → More inquiry (Stage 1)**
+**Impact:** [e.g., "Community secured £200K funding using outputs"]
 
 ---
 
-## **STAGE 3: Generate Design Brief**
+## Context & Background
 
-### **What It Does:**
+### Place Context
 
-Creates a comprehensive design brief that architects/designers can use, grounded in community wisdom and regenerative principles.
+**Geographic Setting:**
+[Describe the physical place - rural/urban, landscape type, ecosystem, etc.]
 
-### **When To Use It:**
+**Bioregion:**
+[Name and describe the bioregion]
 
-* **After** Stage 2 shows HIGH confidence
-* **After** community validates the place essence
-* When you know the proposed intervention
-* When stakeholders have made commitments
+**Historical Context:**
+[What's the history of this place? Indigenous history? Industrial history? Recent changes?]
 
-### **What You Input (The Form):**
+**Current Situation:**
+[What's happening now? What tensions exist?]
 
-<pre class="font-ui border-border-100/50 overflow-x-scroll w-full rounded border-[0.5px] shadow-[0_2px_12px_hsl(var(--always-black)/5%)]"><table class="bg-bg-100 min-w-full border-separate border-spacing-0 text-sm leading-[1.88888] whitespace-normal"><thead class="border-b-border-100/50 border-b-[0.5px] text-left"><tr class="[tbody>&]:odd:bg-bg-500/10"><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Field</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">What It Is</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Example</th></tr></thead><tbody><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Project Name</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Same as before</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">"San Martino Water Commons"</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Validated Place Essence</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Community-approved essence from Stage 2</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">"Mountain-valley bridge seeking reconnection through water"</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Proposed Intervention</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">What you want to build/do</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">"Restore waale irrigation system as community-managed commons"</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Stakeholder Commitments</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Who promised what (add multiple rows)</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Young Cooperative:</strong> "Maintain waale sections" (High capacity)<br><strong>Elders Group:</strong> "Teach traditional techniques" (Medium capacity)</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>Site/Watershed/Bioregion Data</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Optional: Maps, studies, measurements</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">(Can leave empty for now)</td></tr></tbody></table></pre>
+### Community Context
 
-### **What You Get:**
+**Demographics:**
 
-#### **1. Design Brief**
+* Population: [number]
+* Age distribution: [general description]
+* Economic situation: [employment, income levels]
+* Cultural composition: [diversity, languages, traditions]
 
-Complete document including:
+**Stakeholder Groups:**
+[List the main stakeholder groups involved]
 
-* **Core Design Principles** (derived from place essence)
-  * "Design must honor traditional water knowledge"
-  * "Create spaces for intergenerational knowledge transfer"
-  * "Maintain local control and governance"
-* **Essential Process Alignment**
-  * How design addresses each degraded process
-  * Metrics for success
-* **Stakeholder Integration Plan**
-  * How each commitment is honored in design
-  * Roles and responsibilities
+* [Group 1]: [brief description]
+* [Group 2]: [brief description]
+* [Group 3]: [brief description]
 
-#### **2. Three Spheres Synthesis**
+**Power Dynamics:**
+[Who has formal power? Informal influence? Whose voices are marginalized?]
 
-Analysis across:
+### Project Genesis
 
-* **Economic Sphere:** Financial viability, funding sources
-* **Social Sphere:** Community engagement, equity, power
-* **Ecological Sphere:** Environmental impacts, regeneration
+**How did this project start?**
+[What sparked it? Who initiated? What was the catalyst?]
 
-**Plus:** Where spheres overlap (sweet spots) and potential conflicts
+**Key Tensions:**
 
-#### **3. Nested Scales Visualization**
+1. [Tension 1]
+2. [Tension 2]
+3. [Tension 3]
 
-How the intervention connects across scales:
+**Historical Patterns:**
 
-* **Site Scale:** What happens at the waale itself
-* **Watershed Scale:** Effects on water flow upstream/downstream
-* **Bioregion Scale:** Role in larger valley ecosystem
-* **Human Settlement Scale:** Impact on village social structure
+1. [Pattern 1: What worked in the past?]
+2. [Pattern 2]
+3. [Pattern 3]
 
-#### **4. Design Phase Workshop Protocol**
+**Why use this system?**
+[Why did practitioner choose to use AI-assisted approach?]
 
-New workshop structure for co-design with community:
+* [ ] Time constraints
+* [ ] Budget limitations
+* [ ] Complexity of stakeholders
+* [ ] Need professional outputs
+* [ ] Wanted anti-capture analysis
+* [ ] Other: _______________
 
-* 8-hour collaborative design session
-* Activities for translating principles into form
-* Decision-making protocols
+---
 
-### **What You Get (Example Output):**
+## Stage 1: Generate Inquiry Questions
+
+### Inputs Provided
 
 json
 
 ```json
 {
-"design_brief":{
-"project_vision":"Restore the waale as living commons...",
-"core_principles":[
-"Honor traditional knowledge in modern form",
-"Create year-round meaningful work for youth",
-"Distribute power equitably across generations"
-],
-"spatial_requirements":{
-"waale_channel":"3km restoration prioritizing...",
-"gathering_spaces":"Three nodes for teaching/learning",
-"maintenance_stations":"Youth-managed infrastructure"
+"project_name":"",
+"place_context":{
+"location_name":"",
+"current_tensions":[],
+"historical_patterns":[],
+"bioregion":""
 },
-"governance_structure":"Rotating council with elder advisors...",
-"timeline":"24 months in 4 phases...",
-"anti_capture_mechanisms":[
-"Community land trust structure",
-"Decision-making protocols",
-"Transparency requirements"
-]
-}
+"stakeholder_types":[]
 }
 ```
 
-### **What To Do Next:**
+**Time to complete inputs:** [e.g.,15 minutes]
 
-1. **Review the design brief** with your core team
-2. **Run the Design Phase workshops** with community
-3. **Give the brief to architects/designers**
-4. **Use principles to evaluate design proposals**
-5. **Check designs against Three Spheres analysis**
-6. **Communicate impacts using Nested Scales visualization**
+### System Processing
 
----
+**Model used:** [Gemini 2.5 Pro / Flash]
 
-## **The Complete Workflow (Real Example)**
+**Processing time:** [e.g.,2 minutes]
 
-### **Week 1: Preparation**
+**Any errors or issues?** [Yes/No - describe if yes]
 
-* Open system, fill out Stage 1 form
-* Click "Run Stage 1"
-* Print questions and workshop protocol
-* Gather materials (stones, seeds, plantain leaves, local drink)
+### Outputs Generated
 
-### **Week 2-3: Field Work**
+**Number of questions per stakeholder group:**
 
-* Travel to San Martino
-* Conduct Session 1 with elders (1.5 hours)
-* Conduct Session 2 with youth (1.5 hours)
-* Conduct Session 3 cross-pollination walk (3 hours)
-* Document everything in notebook
+- [Stakeholder 1]:[X questions]
+- [Stakeholder 2]:[X questions]
+- [Stakeholder 3]:[X questions]
 
-### **Week 4: Synthesis**
+**Sample questions (include 3-5 best examples):**
 
-* Return home, transcribe notes
-* Open system, click "Edit Configuration"
-* Fill out Stage 2 form with real quotes
-* Click "Run Stage 2"
-* Get Essential Processes Assessment + Place Essence
+**For [Stakeholder Group 1]:**
 
-### **Week 5: Validation**
+> "[Question 1]"
 
-* Return to community (or video call)
-* Present the Place Essence
-* Community says: "YES! That's exactly it!"
-* Document their commitments
+> "[Question 2]"
 
-### **Week 6: Design Brief**
+**For [Stakeholder Group 2]:**
 
-* Fill out Stage 3 form
-* Include validated essence
-* Add stakeholder commitments
-* Click "Run Stage 3"
-* Receive complete design brief
+> "[Question 1]"
 
-### **Week 7-8: Design Phase**
+> "[Question 2]"
 
-* Share brief with architects
-* Run Design Phase workshops
-* Co-create designs with community
+**Workshop protocol generated:**
+[Describe the workshop structure suggested by system]
+
+### Practitioner Adaptation
+
+**What was adapted?**
+
+- [Adaptation 1: e.g., Changed metaphor to local dialect]
+- [Adaptation 2: e.g., Removed question about X, added question about Y]
+- [Adaptation 3: e.g., Reordered to match local communication norms]
+
+**Quality assessment:**
+
+- Usability:[0-100%] - What % of questions used as-generated?
+- Cultural fit:[1-10] - How culturally appropriate were questions?
+- Depth:[1-10] - How well did they probe essence vs. surface?
+
+**Practitioner reflection:**
+
+> "[Quote from practitioner about Stage 1 quality/utility]"
+
+**Time saved:** [Traditional approach: X weeks] → [With system: Y hours]
 
 ---
 
-## **Key Principles To Remember**
+## Field Implementation
 
-### **1. Human Agency**
+### Workshop Details
 
-The system  **suggests** , you  **decide** . Never skip community validation.
+**Number of workshops conducted:** [Number]
 
-### **2. Sequential Not Simultaneous**
+**Workshop 1:**
 
-Don't jump ahead. Each stage builds on the previous.
+- Date:[Date]
+- Stakeholder group:[Group]
+- Participants:[Number]
+- Duration:[Hours]
+- Location:[Where]
+- Format:[Circle, small groups, walk, etc.]
 
-### **3. Iterative If Needed**
+**Workshop 2:**
+[Repeat for each workshop]
 
-Low confidence in Stage 2? Return to Stage 1 with new questions.
+**Documentation method:**
 
-### **4. Documentation Is Critical**
+- [] Audio recording (transcribed)
+- [] Video recording
+- [] Note-taking
+- [] Photography
+- [] Artifacts (drawings, maps, etc.)
 
-The quality of Stage 2/3 depends on quality of your field notes.
+**Challenges encountered:**
+[Describe any difficulties in workshops]
 
-### **5. Cultural Sensitivity**
-
-Adapt the questions and protocols to local context.
+**Unexpected insights:**
+[What surprised you?]
 
 ---
 
-## **Quick Reference Table**
+## Stage 2: Process Stakeholder Responses
 
-<pre class="font-ui border-border-100/50 overflow-x-scroll w-full rounded border-[0.5px] shadow-[0_2px_12px_hsl(var(--always-black)/5%)]"><table class="bg-bg-100 min-w-full border-separate border-spacing-0 text-sm leading-[1.88888] whitespace-normal"><thead class="border-b-border-100/50 border-b-[0.5px] text-left"><tr class="[tbody>&]:odd:bg-bg-500/10"><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Stage</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Input</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Time</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Output</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Next Action</th></tr></thead><tbody><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>1</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Project context, stakeholders</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">5 min</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Questions + workshop protocol</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Go to field</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>2</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Workshop quotes, observations</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">10 min</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Process assessment + essence</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Validate with community</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"><strong>3</strong></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Validated essence, commitments</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">10 min</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Design brief</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Give to designers</td></tr></tbody></table></pre>
+### Inputs Provided
+
+**Time to input data:** [e.g.,2 hours to transcribe and organize]
+
+**Sample responses (anonymized quotes):**
+
+**From [Stakeholder Group 1]:**
+
+```
+- "Quote 1"
+- "Quote 2"
+- "Quote 3"
+```
+
+**From [Stakeholder Group 2]:**
+
+```
+- "Quote 1"
+- "Quote 2"
+- "Quote 3"
+```
+
+**Initial place essence hypothesis:**
+
+> "[Your hypothesis before running Stage 2]"
+
+### System Processing
+
+**Processing time:** [e.g., 90 seconds]
+
+**Any errors?** [Describe if yes]
+
+### Outputs Generated
+
+#### Essential Processes Health Assessment
+
+<pre class="font-ui border-border-100/50 overflow-x-scroll w-full rounded border-[0.5px] shadow-[0_2px_12px_hsl(var(--always-black)/5%)]"><table class="bg-bg-100 min-w-full border-separate border-spacing-0 text-sm leading-[1.88888] whitespace-normal"><thead class="border-b-border-100/50 border-b-[0.5px] text-left"><tr class="[tbody>&]:odd:bg-bg-500/10"><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Process</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Ecological %</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Economic %</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Social %</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Overall %</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Status</th></tr></thead><tbody><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Nourishment</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Shelter</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Resource Gen/Exchange</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Identity/Belonging</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Meaningful Contribution</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">Spirit/Inspiration</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]"></td></tr></tbody></table></pre>
+
+**Priority Process:** [Which process was most degraded?]
+
+**Priority Intervention:** [What did system identify as leverage point?]
+
+#### Refined Place Essence
+
+**Original hypothesis:**
+
+> "[Your initial hypothesis]"
+
+**System-refined essence:**
+
+> "[What system generated]"
+
+**What changed:**
+[Explain how/why essence was refined]
+
+**Contradictions identified:**
+[Any contradictions in data, and how resolved?]
+
+#### Confidence Assessment
+
+**Confidence level:** [High / Medium / Low]
+
+**Depth scores:**
+
+* Historical patterns: [0-100%]
+* Ecological relationships: [0-100%]
+* Social fabric: [0-100%]
+* Cultural essence: [0-100%]
+* Economic flows: [0-100%]
+
+**Recommendation:** [Proceed to Stage 3 / Need more inquiry]
+
+**New questions raised:**
+[Did system identify gaps in understanding?]
+
+### Community Validation
+
+**Validation session date:** [Date]
+
+**Participants:** [Number, types]
+
+**Process:** [How did you present findings?]
+
+**Community response:**
+[How did community react to essence and assessment?]
+
+**Documented quotes:**
+
+> "[Quote from community member about essence]"
+
+> "[Quote about priority intervention]"
+
+**Changes requested:**
+[Did community ask for any changes?]
+
+**Final validated essence:**
+
+> "[After community input]"
+
+### Practitioner Reflection
+
+**Quality assessment:**
+
+* Synthesis accuracy: [1-10]
+* Captured essence: [Yes/No/Partially]
+* Priority intervention: [Agreed/Disagreed]
+
+**Time saved:** [Traditional: X weeks] → [With system: Y hours]
+
+**What worked well:**
+[Describe strengths of Stage 2 outputs]
+
+**What needed adaptation:**
+[Describe weaknesses or gaps]
+
+**Practitioner quote:**
+
+> "[Reflection on Stage 2 process]"
 
 ---
 
-## **Common Questions**
+## Stage 3: Generate Design Brief
 
-**Q: Can I skip Stage 1 if I already have questions?**
-A: Yes, but the AI-generated questions might reveal blind spots.
+### Inputs Provided
 
-**Q: What if Stage 2 says "low confidence"?**
-A: Return to Stage 1, generate new questions for the specific gaps identified.
+**Validated place essence:** [From Stage 2]
 
-**Q: Can I edit the AI-generated questions?**
-A: Absolutely! They're starting points. Adapt to your context.
+**Proposed intervention:** [Description]
 
-**Q: What if stakeholders don't validate the essence?**
-A: Don't proceed to Stage 3. Do more inquiry. Trust the process.
+**Stakeholder commitments:**
 
-**Q: Can I run stages multiple times for the same project?**
-A: Yes! Each time you click "Run Stage X" it generates fresh output.
+<pre class="font-ui border-border-100/50 overflow-x-scroll w-full rounded border-[0.5px] shadow-[0_2px_12px_hsl(var(--always-black)/5%)]"><table class="bg-bg-100 min-w-full border-separate border-spacing-0 text-sm leading-[1.88888] whitespace-normal"><thead class="border-b-border-100/50 border-b-[0.5px] text-left"><tr class="[tbody>&]:odd:bg-bg-500/10"><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Stakeholder</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Commitment</th><th class="text-text-000 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] px-2 [&:not(:first-child)]:border-l-[0.5px]">Capacity</th></tr></thead><tbody><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[Group 1]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[What they commit to]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">High/Med/Low</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[Group 2]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[What they commit to]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">High/Med/Low</td></tr><tr class="[tbody>&]:odd:bg-bg-500/10"><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[Group 3]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">[What they commit to]</td><td class="border-t-border-100/50 [&:not(:first-child)]:-x-[hsla(var(--border-100) / 0.5)] border-t-[0.5px] px-2 [&:not(:first-child)]:border-l-[0.5px]">High/Med/Low</td></tr></tbody></table></pre>
+
+**Time to complete inputs:** [Minutes]
+
+### System Processing
+
+**Processing time:** [e.g., 3 minutes]
+
+### Outputs Generated
+
+#### Core Design Principles
+
+[List the 4-6 core design principles derived from place essence]
+
+1. **[Principle 1]:** [Description]
+2. **[Principle 2]:** [Description]
+3. **[Principle 3]:** [Description]
+
+#### Three Spheres Synthesis
+
+**Economic Sphere:**
+
+* Opportunities: [List]
+* Risks: [List]
+
+**Social Sphere:**
+
+* Opportunities: [List]
+* Risks: [List]
+
+**Ecological Sphere:**
+
+* Opportunities: [List]
+* Risks: [List]
+
+**Sweet Spots (All Three Aligned):**
+
+1. [Sweet spot 1]
+2. [Sweet spot 2]
+
+#### Nested Scales Visualization
+
+**Site Scale:**
+[Describe direct intervention]
+
+**Watershed/Neighborhood Scale:**
+[Describe broader impacts]
+
+**Bioregion Scale:**
+[Describe regional significance]
+
+**Human Settlement Scale:**
+[Describe community-level impacts]
+
+#### Success Metrics
+
+**Ecological:**
+
+* [Metric 1]
+* [Metric 2]
+
+**Social:**
+
+* [Metric 1]
+* [Metric 2]
+
+**Economic:**
+
+* [Metric 1]
+* [Metric 2]
+
+**Process Health:**
+
+* [Track priority process quarterly]
+
+### Design Phase Workshop
+
+**Did you conduct design workshop?** [Yes/No]
+
+**If yes:**
+
+* Date: [Date]
+* Participants: [Number]
+* Outputs: [What was created - sketches, models, maps?]
+
+### Practitioner Reflection
+
+**Quality assessment:**
+
+* Professional quality: [1-10]
+* Actionable for designers: [1-10]
+* Traceable to community wisdom: [1-10]
+
+**How was brief used?**
+
+* [ ] Given to architects
+* [ ] Used in funding application
+* [ ] Shared with council/authority
+* [ ] Community design workshops
+* [ ] Other: _______________
+
+**Time saved:** [Traditional: X weeks] → [With system: Y hours]
+
+**Practitioner quote:**
+
+> "[Reflection on Stage 3]"
+
+---
+
+## Stage 4: Governance Harmonization (VDK-Enhanced)
+
+### Inputs Provided
+
+**Documents uploaded:**
+
+1. [Document 1: Type, pages]
+2. [Document 2: Type, pages]
+3. [Document 3: Type, pages]
+
+**Constitution selected:** [regenerative.md / uk-commons-governance.md / other]
+
+**Analysis focus:**
+
+* [ ] Governance alignment
+* [ ] Capture risks
+* [ ] Legal compliance
+* [ ] Implementation pathway
+* [ ] All of above
+
+**Time to gather documents:** [Hours/days]
+
+### System Processing
+
+**Processing time:** [e.g., 12 minutes for 3 pathways]
+
+**Number of iterations per pathway:** [Usually 4-5]
+
+**Any pathways rejected by VDK?** [Yes/No - describe if yes]
+
+### Outputs Generated
+
+#### Pathway A: [Name]
+
+**Governance model:** [Describe structure]
+
+**Legal framework:** [Laws, regulations, compliance]
+
+**Funding sources:** [How would this be funded?]
+
+**Timeline:** [Months to implementation]
+
+**Viability score:** [0.XX]
+
+**Pros:**
+
+* [Pro 1]
+* [Pro 2]
+* [Pro 3]
+
+**Cons:**
+
+* [Con 1]
+* [Con 2]
+* [Con 3]
+
+**Capture risk:** [Low/Medium/High]
+
+**Capture risk details:**
+[What specific risks identified?]
+
+**VDK trajectory analysis:**
+[Coherent/Stable/Vulnerable - explain]
+
+**Best for:**
+[What community circumstances suit this pathway?]
+
+#### Pathway B: [Name]
+
+[Repeat structure from Pathway A]
+
+#### Pathway C: [Name]
+
+[Repeat structure from Pathway A]
+
+### VDK Extractive Drift Detection
+
+**Were any pathways rejected during iteration?**
+
+**If yes - Rejected Pathway:**
+
+**Why rejected:**
+[What extractive patterns did VDK detect?]
+
+**Specific concerns:**
+
+* [Concern 1: e.g., External entity given veto power]
+* [Concern 2: e.g., Self-justifying language detected]
+* [Concern 3: e.g., Asset control shifted away from community]
+
+**Historical pattern matched:**
+[Did this match a known failure pattern?]
+
+**Quote from VDK analysis:**
+
+> "[Excerpt from VDK reasoning]"
+
+**Practitioner reaction:**
+[Did you agree with VDK rejection? Would you have caught this?]
+
+### Community Review
+
+**Review session date:** [Date]
+
+**Participants:** [Number]
+
+**How were pathways presented?**
+[Describe presentation format]
+
+**Community discussion:**
+[Summary of deliberation - what factors mattered most?]
+
+**Pathway chosen:** [A / B / C / Custom]
+
+**Why this pathway?**
+[Community reasoning]
+
+**Documented quote:**
+
+> "[Quote from community member about decision]"
+
+**Next steps:**
+[What happens next with chosen pathway?]
+
+### Practitioner Reflection
+
+**Quality assessment:**
+
+* Professional quality: [1-10]
+* Legal accuracy: [1-10]
+* Capture detection utility: [1-10]
+* Helped community decide: [1-10]
+
+**VDK effectiveness:**
+
+* Did VDK catch anything you missed? [Yes/No - describe]
+* False positives? [Any pathways wrongly rejected?]
+* Overall trust in VDK: [1-10]
+
+**Time saved:** [Traditional: X weeks] → [With system: Y hours]
+
+**Practitioner quote:**
+
+> "[Reflection on Stage 4 and VDK]"
+
+---
+
+## Outcomes & Impact
+
+### Immediate Outcomes
+
+**Project status after completing all stages:**
+
+* [ ] Ready for implementation
+* [ ] Secured funding
+* [ ] Got planning approval
+* [ ] Community committed to proceed
+* [ ] In design phase
+* [ ] On hold
+* [ ] Other: _______________
+
+**Concrete outcomes:**
+
+1. [Outcome 1: e.g., Secured £X funding using design brief]
+2. [Outcome 2: e.g., Formed legal cooperative structure]
+3. [Outcome 3: e.g., Got media coverage]
+
+**Funding secured:** [Amount, source]
+
+**Approvals/permits obtained:** [List]
+
+### Early Implementation (if applicable)
+
+**Implementation started:** [Date]
+
+**Progress to date:**
+[What's been done?]
+
+**Early indicators of success:**
+
+* [Indicator 1]
+* [Indicator 2]
+
+**Challenges encountered:**
+[What difficulties in implementation?]
+
+### Ripple Effects
+
+**Did this project influence others?**
+
+* [ ] Neighboring communities interested
+* [ ] Authority adopted approach
+* [ ] Media coverage
+* [ ] Academic interest
+* [ ] Policy influence
+* [ ] Other: _______________
+
+**Describe:**
+[How has this project rippled outward?]
+
+### Long-term Vision (6-12 months out)
+
+**Expected outcomes:**
+[What do you hope will happen?]
+
+**Success metrics:**
+[How will you know if this worked?]
+
+---
+
+## System Effectiveness Analysis
+
+### Overall Assessment
+
+**Total time using system:** [Hours across all stages]
+
+**Time compared to traditional approach:**
+
+* Traditional estimate: [Weeks/months]
+* With system: [Weeks]
+* Time savings: [X%]
+
+**Cost comparison:**
+
+* Traditional consulting: [£X]
+* With system: [£Y]
+* Cost savings: [£Z]
+
+**Quality of outputs (1-10):**
+
+* Stage 1 questions: [X/10]
+* Stage 2 synthesis: [X/10]
+* Stage 3 design brief: [X/10]
+* Stage 4 governance: [X/10]
+* Overall: [X/10]
+
+### What Worked Well
+
+**Strengths of the system:**
+
+1. [Strength 1]
+2. [Strength 2]
+3. [Strength 3]
+
+**Unexpected benefits:**
+[Anything surprising that was helpful?]
+
+**Best features:**
+[Which stage/feature was most valuable?]
+
+### What Needed Improvement
+
+**Limitations encountered:**
+
+1. [Limitation 1]
+2. [Limitation 2]
+3. [Limitation 3]
+
+**Required significant adaptation:**
+[What outputs needed heavy manual revision?]
+
+**Missed by system:**
+[What did AI not capture that human would?]
+
+### Cultural Appropriateness
+
+**Did outputs fit cultural context?** [Yes/Mostly/Partially/No]
+
+**Cultural adaptations needed:**
+[List specific changes made for cultural fit]
+
+**Would you recommend for this cultural context?** [Yes/No/With caveats]
+
+---
+
+## Recommendations
+
+### For Practitioners
+
+**Would you use this system again?** [Yes/No/Maybe]
+
+**Recommend to other practitioners?** [Yes/No/With conditions]
+
+**Best suited for:**
+
+* [ ] Planning opposition
+* [ ] Community land trusts
+* [ ] Housing co-ops
+* [ ] Asset transfers
+* [ ] Other: _______________
+
+**Not recommended for:**
+[What project types should avoid this?]
+
+**Tips for other practitioners:**
+
+1. [Tip 1]
+2. [Tip 2]
+3. [Tip 3]
+
+### For System Developers
+
+**Feature requests:**
+
+1. [Request 1]
+2. [Request 2]
+3. [Request 3]
+
+**Bugs encountered:**
+[List any technical issues]
+
+**Suggested improvements:**
+[What would make this better?]
+
+---
+
+## Community Feedback
+
+### Community Member Testimonials
+
+**[Name/Anonymous], [Role]:**
+
+> "[Quote about experience]"
+
+**[Name/Anonymous], [Role]:**
+
+> "[Quote about outputs]"
+
+**[Name/Anonymous], [Role]:**
+
+> "[Quote about decision-making]"
+
+### Community Assessment
+
+**Did community feel heard?** [Yes/No]
+
+**Did outputs resonate with community?** [Yes/Mostly/Partially/No]
+
+**Would community use this approach again?** [Yes/No/Maybe]
+
+**Community concerns:**
+[Any reservations about AI use?]
+
+---
+
+## Practitioner Profile
+
+**Practitioner name/anonymous:** [Name or Anonymous]
+
+**Background:**
+
+* Training: [Regenerative development, architecture, planning, etc.]
+* Years of experience: [Number]
+* Previous projects: [Brief description]
+
+**Why chose to pilot this system:**
+[Motivation]
+
+**Overall reflection:**
+
+> "[Longer reflection on whole experience with system]"
+
+---
+
+## Appendices
+
+### Appendix A: Complete Stage 1 Output
+
+[Attach full Stage 1 questions, or link to file]
+
+### Appendix B: Raw Workshop Data
+
+[Anonymized transcripts, photos, artifacts]
+
+### Appendix C: Stage 2 Detailed Assessment
+
+[Full Essential Processes matrices]
+
+### Appendix D: Complete Design Brief
+
+[Full Stage 3 output]
+
+### Appendix E: All Governance Pathways
+
+[Full Stage 4 outputs for each pathway]
+
+### Appendix F: VDK Analysis Details
+
+[Technical VDK reasoning]
+
+### Appendix G: Supporting Documents
+
+[Maps, photos, diagrams, legal documents]
