@@ -1,10 +1,8 @@
 # Regenerative Development AI: A Constitutional Framework for Community Sovereignty
 
-## Complete Project Vision & Theoretical Foundations
+#### Complete Project Vision & Theoretical Foundations
 
-## Where Regenerative Frameworks Meet Constitutional AI: A Research Project in Epistemic Innovation
-
----
+Where Regenerative Frameworks Meet Constitutional AI: A Research Project in Epistemic Innovation
 
 ---
 
@@ -1006,7 +1004,7 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareA
 
 - **Issues:** [GitHub Issues](https://github.com/[your-username]/regenerative-development-ai/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/[your-username]/regenerative-development-ai/discussions)
-- **Email:** [your-email]
+- **Email:** [c.arleo@localis-ai.uk]([c.arleo@localis-ai.uk]())
 
 ---
 
