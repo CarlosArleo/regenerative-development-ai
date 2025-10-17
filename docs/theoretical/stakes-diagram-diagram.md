@@ -1,4 +1,3 @@
-
 %%{init: {"theme": "base", "themeVariables": {
   "primaryColor": "transparent",
   "tertiaryColor": "transparent",
