@@ -779,10 +779,10 @@ See the complete system visually:
 
 **###** Quick Visual Reference
 
-**-****[**Complete Process Flow**](**docs/visuals/process-flow-diagram.md**)****** - All 4 stages at a glance
-**-****[**Actor Interactions**](**docs/visuals/actor-interaction-diagram.md**)****** - How Community, Practitioner, and AI work together
-**-****[**VDK Architecture**](**docs/visuals/vdk-architecture-diagram.md**)****** - How we prevent extractive governance
-**-****[**Constitutional Principles**](**docs/visuals/seven-principles-diagram.md**)****** - The framework that guides everything
+**-****[**Complete Process Flow**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md)****** - All 4 stages at a glance
+**-****[**Actor Interactions**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md)****** - How Community, Practitioner, and AI work together
+**-****[**VDK Architecture**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/vdk-architecture-diagram.md)****** - How we prevent extractive governance
+**-****[**Constitutional Principles**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/seven-principles-diagram.md)****** - The framework that guides everything
 
 **###** The Process (Summary)
 
