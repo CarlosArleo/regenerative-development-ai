@@ -1,0 +1,453 @@
+{
+  "stage1": {
+    "stage": "inquiry_questions_generated",
+    "inquiry_questions_by_stakeholder": {
+      "elders": {
+        "stakeholder_type": "elders",
+        "inquiry_phase": "understanding",
+        "question_categories": {
+          "The Land's Memory & Rhythms": [
+            "Could you paint a picture for me with your words? Before the big changes, what did Carrington look, sound, and even smell like through the seasons?",
+            "People talk about the peat mosses and the wetlands. What was your relationship with them? Were they places to play, to work, to find food, or to avoid? What stories did you hear about them growing up?",
+            "What were the old rhythms of the year here? What were the signs in the birds, the plants, or the water that told you winter was ending or that it was time to harvest?",
+            "I've heard this was a place that fed many people. Can you tell me about the market gardens or allotments? What was the feeling of growing food from this soil and sharing it?",
+            "When you think of a practice that people don't do anymore – maybe cutting peat, or tending to a certain crop – what was the wisdom behind doing it that way? What did you have to know about the land to get it right?"
+          ],
+          "The Flow of Life: Water & People": [
+            "The streams, ditches, and wet places here are all connected to the Mersey. Did they have names that only local people knew? Were they like characters in the story of this place?",
+            "How did people and the land work together here? Was there a sense of give-and-take, a partnership, in how things were cared for?",
+            "When the land was healthy and providing for the community, what did it seem to ask of people in return?",
+            "Can you share a story about a time when the community had to pull together because of something the land or water did – a flood, a dry spell, an unexpectedly good harvest? What does that story tell us about the character of this place?",
+            "How did people here used to understand wealth? Was it just about money, or was it about having clean water, good soil, and strong neighbours?"
+          ],
+          "The Heart of the Community": [
+            "Beyond the jobs people did, what was the spirit of the Carrington community you remember? If it were a person, what kind of character would it have had?",
+            "What are the stories we tell about who we are here in Carrington? What makes someone 'from here', and what does it mean to belong to this place?",
+            "When a family was in need, how did this community respond? Can you share a story that you feel shows the true heart of this place?",
+            "Where were the places people gathered not for work, but just to be together? What was it about those specific spots that drew people in?",
+            "What is a unique skill or piece of knowledge that was passed down through the generations here that you worry might be forgotten?"
+          ],
+          "Navigating Change and What Endures": [
+            "Watching this place change so much must be difficult. What has been the hardest part to witness being lost or damaged?",
+            "As so much has changed, what parts of the old Carrington spirit have you seen hold on? Where do you still see the true character of this place showing through?",
+            "The land itself is under pressure with the new developments. If you could sit quietly and listen to what the peatlands are trying to say right now, what do you think you would hear?",
+            "What wisdom from the 'old ways' of living here do you think the thousands of new people moving in will need most, to truly become part of this place and not just live on top of it?",
+            "If you could give a gift of wisdom to the future generations of Carrington, a single story or a piece of advice about how to live well here, what would it be?"
+          ]
+        },
+        "usage_guidance": "Use these questions as gentle starting points for a conversation, not a checklist for an interview. The goal is to invite storytelling and create a space for reflection. Begin by genuinely honouring their role as a wisdom-keeper for the community. Follow the threads of their stories rather than sticking rigidly to the questions. Pay close attention to the emotions and relationships they describe – that is where the essence of place is often revealed. Be comfortable with silence, as it allows for deeper memories to surface. Your role is to listen with humility and curiosity, to learn what the place is through their eyes, and to thank them for the gift of their experience."
+      },
+      "young_returnees": {
+        "stakeholder_type": "young_returnees",
+        "inquiry_phase": "understanding",
+        "question_categories": {
+          "The Call Back Home": [
+            "Can you tell me the story of the moment you decided to return to Carrington? What was pulling you back here, specifically?",
+            "Many people leave and don't look back. What is it about this place—its land, its people, its rhythm—that lives in you, even when you're away?",
+            "When you think of the 'real' Carrington, what memory, sound, or feeling comes to mind first? Where in the landscape do you feel that most strongly?",
+            "What did you miss about the connection to this particular landscape—the mosses, the Mersey, the wide-open skies—that you couldn't find elsewhere?",
+            "Beyond family, what relationship or connection here felt essential to who you are?"
+          ],
+          "Seeing a Different Future": [
+            "You came back seeing a potential that others might miss. If Carrington could speak, what do you hear it trying to become?",
+            "When you look at the fields and mosslands threatened by development, what alternative future do you imagine for them? What wants to grow there?",
+            "What are the hidden strengths or unique qualities of this community that an outsider, or even a developer, would completely overlook?",
+            "If you were to show someone the 'promise' of Carrington in one single spot, where would you take them and what story would you tell?",
+            "What skills or ways of life, perhaps almost forgotten here, do you see as the seeds for a new and thriving local economy?"
+          ],
+          "Bridging Past and Present": [
+            "What stories do you hear from older family members or neighbours about how this place used to be—about the peat commons, the market gardens, the way people relied on each other?",
+            "When you talk about your hopes for Carrington's future, where do you find common ground with the older generation, and where do the visions seem to diverge?",
+            "How do you navigate the tension between respecting the 'way things have always been done' and introducing the new ideas and energy you bring?",
+            "What wisdom from Carrington's past do you feel is absolutely critical to carry forward as the community faces these huge changes?",
+            "What's a conversation you wish you could have between the youngest and oldest generations here to unlock a shared path forward?"
+          ],
+          "Putting Down Roots": [
+            "For you to not just stay, but to truly thrive and build your life here, what needs to be nurtured? What's the 'soil' your future needs?",
+            "Imagine it’s ten years from now, and you're flourishing in Carrington. What would need to have happened for that to be your reality?",
+            "How does the constant pressure of the proposed development impact your ability to feel secure and invest your energy in building a future here?",
+            "What kind of work or livelihood feels like it *belongs* here—something that could grow from the unique character of Carrington's land and people, rather than being imposed on it?",
+            "What connections—to people, to projects, to the land itself—would make you feel deeply rooted and committed to this place for the long term?"
+          ]
+        },
+        "usage_guidance": "Use these questions as invitations, not a checklist. The goal is a genuine dialogue, not an interview. Start with the category that feels most natural and let the conversation flow. Listen for the energy, the emotion, and the patterns beneath the words. These young people hold a unique perspective, bridging the past they've inherited with a future they want to create. Your role is to create a space where their vision, their frustrations, and their deep connection to place can be fully expressed and heard. Be prepared to share your own purpose for the inquiry to build trust and a sense of shared journey."
+      },
+      "municipal_staff": {
+        "stakeholder_type": "municipal_staff",
+        "inquiry_phase": "understanding",
+        "question_categories": {
+          "The Story Behind the Plans": [
+            "If the official plans and zoning maps for Carrington could tell a story about what the municipality values most here, what story would that be?",
+            "When you look at the daily life of the community in Carrington—how people move, gather, and make a living—what aspects of that life don't seem to show up in the planning documents?",
+            "The Mersey and the wetlands have their own logic and flows. In what ways do you feel the current plans work *with* those natural patterns, and where might there be some friction?",
+            "Beyond the number of homes, what conversations are happening internally about the kind of community character or 'spirit' you hope the new development might foster?",
+            "What has consistently surprised you or your colleagues over the years about how the community and the landscape in Carrington respond to municipal initiatives?"
+          ],
+          "Institutional Memory & Shifting Relationships": [
+            "Can you tell me about a time when the relationship between the council and the Carrington community felt particularly strong or collaborative? What was happening then that made it so?",
+            "Looking back through the council's history with this place, what are some of the recurring challenges or themes that seem to surface in Carrington, decade after decade?",
+            "How has the council's understanding of the value of Carrington Moss and the peatlands changed over your time here? What or who prompted those shifts in thinking?",
+            "If you were to describe the 'character' of Carrington as the council saw it 20 years ago, and its character now, what words would you use? What has changed?",
+            "What are the stories that get told internally about Carrington? Is it seen as a place of problems, of opportunities, or something else entirely?"
+          ],
+          "Navigating Current Tensions & Potential": [
+            "The proposed development is bringing a lot of energy and tension to the surface. What do you think this tension is revealing about what the people of Carrington—and the land itself—truly need to be healthy?",
+            "Beyond the immediate need for housing, what is the deeper 'work' this development is being asked to do for Greater Manchester? And what might it be asking of Carrington in return?",
+            "When you hear community concerns about the peatlands or the loss of green belt, what are the underlying values or connections to place you hear being expressed, beyond the technical arguments?",
+            "Imagine for a moment the development is built in a way that *enhances* the health of the wetlands and the spirit of the existing community. What would have to be fundamentally different about how it's being planned and discussed right now?",
+            "What unique wisdom or resilience does the existing working-class community hold that could be a vital asset in navigating this period of immense change?"
+          ],
+          "Envisioning a Thriving Future": [
+            "If Carrington were to become a model for how a community can live in a truly reciprocal relationship with its unique wetland landscape, what stories would you want people from other councils to tell about what was achieved here?",
+            "What question about Carrington's future do you wish more people—in the community, in development, in the council—were asking right now?",
+            "When you walk or drive through Carrington, what small things do you see that give you a sense of hope for its future? What signs of life or connection are already pointing towards what's possible?",
+            "Looking ahead 50 years, what contribution do you hope Carrington will have made to the health and identity of the entire Mersey Basin bioregion?",
+            "What is a legacy the current council could leave in Carrington that future generations would be truly grateful for?"
+          ]
+        },
+        "usage_guidance": "Use these questions as conversational entry points, not as a rigid survey. Your role is to listen deeply for the stories, metaphors, and underlying values, not just the factual answers. Approach the dialogue with genuine curiosity, acknowledging the complex position municipal staff often hold, balancing policy, development pressures, and community needs. Let the conversation breathe and follow the energy of what the person is sharing. The goal is to build a relationship and uncover a shared understanding of Carrington's essence and potential from their unique vantage point."
+      },
+      "non_human_species": {
+        "stakeholder_type": "non_human_species",
+        "inquiry_phase": "understanding",
+        "question_categories": {
+          "Reading the Health of the Land: Voices of the Wetland": [
+            "If the Lapwings or Curlews that nest on the Moss could speak, what stories would they tell about finding a home here year after year?",
+            "When you walk the footpaths, which birds, insects, or plants do you see now that your grandparents might not have seen? Which have disappeared?",
+            "What does the presence (or absence) of dragonflies and damselflies tell us about the life hidden within the ditches and waterways?",
+            "How does the colour and feel of the Sphagnum moss change through the seasons, and what does that signal about the wetness and health of the peat?",
+            "Where on the Moss do you hear the wildest sounds? What creatures are making them, and what do those sounds reveal about the life just out of sight?"
+          ],
+          "The Web of Giving and Receiving: Unseen Work": [
+            "Beyond just being here, what is the 'work' that a creature like a water vole or a pollinating bee does for this place all day?",
+            "How do the plants of the peat bog work together to hold the water, build the soil, and create a home for everything else?",
+            "If you were to follow a single foraging bee, what connections would it show you between the wetlands, the old farmland, and the garden patches?",
+            "What creatures here are the 'clean-up crew'—responsible for the decay and renewal that makes new life possible?",
+            "In what ways did the life in these peatlands historically support the local food growing that Carrington was known for?"
+          ],
+          "Stories of Disruption and Resilience": [
+            "Where can you see the 'lines of tension' for wildlife today? Where do their ancient paths cross with new roads, fences, or survey markers for the development?",
+            "If you were a fox or a roe deer trying to move across Carrington, what would your journey feel like now compared to ten years ago?",
+            "How have the birds changed their songs or their behaviour in response to the noise and activity from the edges of the development?",
+            "Which plants or animals are the first to leave when the land is disturbed? What does their absence mean for the place they've left behind?",
+            "Conversely, what are the most stubborn, resilient forms of life here? What can their ability to hang on teach us about the core spirit of this place?"
+          ],
+          "Pathways to a Thriving Future: Whispers of Potential": [
+            "If we were to design this place for the bog moss to thrive, not just survive, what would it ask of us?",
+            "What is the land itself—the peat, the water—trying to become if we were to stop imposing our will on it?",
+            "Are there any 'pioneer' species showing up that hint at a future where the wetlands are recovering? Where are they, and what are they telling us?",
+            "What new, reciprocal relationships between people and wildlife could emerge if the new homes were designed as part of a thriving wetland system?",
+            "What simple, generous act could a new resident do that would be a genuine gift back to the non-human community of Carrington Moss?"
+          ]
+        },
+        "usage_guidance": "Use these questions not as an interview script, but as prompts for deep listening and co-inquiry with community members, ideally while physically present in the landscape. They are designed to shift perspective from seeing non-human species as objects to observe, to understanding them as active participants and storytellers of the place. Invite people to walk, sit, and use their senses to 'read' the answers from the land itself. The goal is to weave a collective story where the needs, gifts, and potential of Carrington's wildlife are central to imagining its future."
+      }
+    },
+    "workshop_protocol": {
+      "workshopTitle": "Carrington Moss: Weaving Past, Present, and Future",
+      "context": {
+        "phase": "understanding",
+        "location": "Carrington, Greater Manchester",
+        "totalTime": "6 hours",
+        "keyTensions": [
+          "6500 home development on green belt",
+          "peatland destruction",
+          "community displacement"
+        ],
+        "stakeholders": [
+          "elders",
+          "young_returnees",
+          "municipal_staff",
+          "non_human_species"
+        ]
+      },
+      "regenerativePrinciples": [
+        "Start with separate stakeholder conversations to build safety and depth",
+        "Create intentional cross-pollination moments to bridge perspectives",
+        "Guide participants toward articulating a shared essence of place, not a forced consensus",
+        "Conclude with co-created, actionable commitments to carry the work forward"
+      ],
+      "sessionSequence": [
+        {
+          "id": 1,
+          "title": "The Land's Memory: A Council of Elders",
+          "duration": "1.5 hours",
+          "participants": [
+            "elders"
+          ],
+          "objective": "To surface and honor the deep stories, memories, and ecological wisdom held by the elders, creating a rich tapestry of Carrington's living past.",
+          "opening": {
+            "activity": "Placing a Stone",
+            "description": "Each participant places a small stone they've brought from a meaningful place in Carrington onto a large map. As they place it, they share the location and one word or feeling that place holds for them. This creates a collective, tactile sense of the place we are discussing."
+          },
+          "coreActivity": {
+            "name": "Story Circles",
+            "description": "Participants break into small groups of 3-4. A facilitator at each group uses carefully selected inquiry questions to gently prompt storytelling, allowing the conversation to flow organically. The focus is on listening to the relationships between people, land, and water.",
+            "inquiryQuestions": [
+              "Could you paint a picture for me with your words? Before the big changes, what did Carrington look, sound, and even smell like through the seasons?",
+              "What were the old rhythms of the year here? What were the signs in the birds, the plants, or the water that told you winter was ending?",
+              "When the land was healthy and providing for the community, what did it seem to ask of people in return?",
+              "What is a unique skill or piece of knowledge that was passed down through the generations here that you worry might be forgotten?"
+            ]
+          },
+          "synthesis": {
+            "method": "Harvesting Wisdom",
+            "description": "A lead facilitator listens to the small group discussions and captures potent phrases, key metaphors, and recurring themes on a large 'Harvest Wall'. The synthesis uses the elders' own words, focusing on relationships, values, and the perceived character of the land."
+          },
+          "closing": {
+            "activity": "A Gift of Wisdom",
+            "description": "In a closing circle, each elder is invited to reflect on the conversation and share one piece of wisdom or a single story they feel is most essential for the future generations of Carrington to know. These 'gifts' are recorded to be carried into the subsequent sessions."
+          },
+          "practitionerPreparation": [
+            "Source a large, clear map of the Carrington Moss area.",
+            "Prepare the 'Harvest Wall' with large sheets of paper and good quality markers.",
+            "Brief co-facilitators on the principles of gentle inquiry and deep listening, emphasizing following story threads over sticking to a script.",
+            "Ensure the space is comfortable, accessible, and welcoming for elders."
+          ],
+          "materialsList": [
+            "Large map of Carrington",
+            "Small, smooth stones (or ask participants to bring one)",
+            "Large sheets of paper or flip charts",
+            "Multiple sets of colored markers",
+            "Talking piece for circles (e.g., a piece of bog oak)",
+            "Refreshments (tea, coffee, biscuits)"
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Seeds of the Future: A Vision of Young Returnees",
+          "duration": "1.5 hours",
+          "participants": [
+            "young_returnees"
+          ],
+          "objective": "To articulate the emerging vision, potential, and needs of the younger generation who are choosing to root themselves in Carrington.",
+          "opening": {
+            "activity": "Tying Aspirations",
+            "description": "Participants write one word representing their core hope for Carrington's future on a ribbon. One by one, they tie their ribbon to a collective branch or 'tree of hope', speaking their word aloud as they do."
+          },
+          "coreActivity": {
+            "name": "Future-Scaping",
+            "description": "Participants are guided through a short visualization of Carrington ten years from now, a future where they are thriving. Then, working in small groups around maps, they draw, write, and map out what this future looks like physically, socially, and economically, using inquiry questions as prompts.",
+            "inquiryQuestions": [
+              "When you look at the fields and mosslands threatened by development, what alternative future do you imagine for them? What wants to grow there?",
+              "For you to not just stay, but to truly thrive and build your life here, what needs to be nurtured? What's the 'soil' your future needs?",
+              "What kind of work or livelihood feels like it *belongs* here—something that could grow from the unique character of Carrington's land and people?",
+              "What wisdom from Carrington's past do you feel is absolutely critical to carry forward as the community faces these huge changes?"
+            ]
+          },
+          "synthesis": {
+            "method": "Pattern Spotting the Future",
+            "description": "The group maps are displayed. The whole group walks around and identifies common patterns, core principles, and necessary conditions emerging from the visions. These are clustered and named on a separate 'Future Patterns' wall."
+          },
+          "closing": {
+            "activity": "Committing an Acorn",
+            "description": "Each person chooses an acorn (or other local seed) and holds it. They state one small, concrete step they will take in the next month to 'plant' a seed of this future vision. This grounds the aspirational work in immediate action."
+          },
+          "practitionerPreparation": [
+            "Prepare the 'Tree of Hope' branch and ribbons.",
+            "Print several copies of the Carrington map for drawing on.",
+            "Ensure ample space for displaying and discussing the visual outputs.",
+            "Review the 'Harvest Wall' from the elders' session to be able to cross-reference if needed."
+          ],
+          "materialsList": [
+            "Large branch",
+            "Colored ribbons and pens",
+            "Multiple copies of the Carrington map",
+            "Colored pens, pencils, and pastels",
+            "Large sheets of paper for pattern spotting",
+            "A bowl of acorns or local seeds"
+          ]
+        },
+        {
+          "id": 3,
+          "title": "Cross-Pollination Walk: Reading the Land Together",
+          "duration": "3 hours",
+          "participants": [
+            "elders",
+            "young_returnees",
+            "municipal_staff",
+            "representatives for non_human_species (all participants)"
+          ],
+          "objective": "To weave together the wisdom of the past, the vision for the future, and the voice of the land itself, guiding participants toward a shared essence and co-created commitments.",
+          "opening": {
+            "activity": "Adopting a Perspective",
+            "description": "At the trailhead, the facilitator briefly shares the key 'gifts of wisdom' from the elders and the 'future patterns' from the youth. Each participant is then invited to choose a non-human being of Carrington Moss (e.g., lapwing, water vole, sphagnum moss, the Mersey river) to hold in their awareness for the walk, asking themselves 'What would the lapwing see? What does the water need?'."
+          },
+          "coreActivity": {
+            "name": "A Walk of Attunement",
+            "description": "A guided walk with periods of silence and three facilitated stops at significant locations on the Moss. At each stop, a specific inquiry question is posed to the group, connecting the morning's themes to the living landscape. An elder and a young returnee are invited to share a key story or insight from their session at relevant points. Municipal staff are invited to share the 'official story' or constraints related to that place.",
+            "inquiryQuestions": [
+              "Stop 1 (at a historic ditch/waterway): Hearing the elders' stories of flow, and holding the perspective of the Water Voles, what is the water asking for here?",
+              "Stop 2 (overlooking land slated for development): Seeing the young people's vision for livelihoods that belong, and speaking for the Curlews, what work wants to happen on this land?",
+              "Stop 3 (in a resilient patch of mossland): What wisdom of resilience does this place hold that both past and future generations of Carrington need right now?"
+            ]
+          },
+          "synthesis": {
+            "method": "Essence Statements Circle",
+            "description": "At the end of the walk, in a final standing circle, participants work in mixed groups of 3-4 (elder, youth, staff) to co-create 'We believe Carrington is...' or 'We commit to a Carrington that...' statements. These are shared aloud, capturing the shared essence that has emerged through the day's experience."
+          },
+          "closing": {
+            "activity": "Cairn of Commitments",
+            "description": "Each participant finds a stone. Holding it, they state one personal or collective commitment they are making to the health of Carrington. The stones are then placed together to build a small cairn, a physical marker of the shared intention and a reminder of the work to be carried forward."
+          },
+          "practitionerPreparation": [
+            "Scout the walking route and identify three meaningful stopping points.",
+            "Synthesize the outputs from sessions 1 & 2 into digestible summaries to share.",
+            "Prepare the key inquiry questions for each stop on the walk.",
+            "Ensure the walk is accessible for all participants, with alternative options if needed.",
+            "Brief invited municipal staff on their role as listeners and contributors, not defenders of policy."
+          ],
+          "materialsList": [
+            "Printed summaries/key quotes from morning sessions",
+            "Small notebooks and pencils for participants",
+            "First aid kit",
+            "Water and snacks",
+            "A marker flag or cloth for the final cairn location"
+          ]
+        }
+      ],
+      "practitionerReflectionPrompts": [
+        "Where did I see genuine connection happen between different stakeholder perspectives, and what conditions allowed for that?",
+        "How was the 'voice' of the non-human species made tangible, and how could that be strengthened in future work?",
+        "What emergent tensions or new possibilities surfaced that were not anticipated, and how will I carry that awareness into the next phase of the project?"
+      ]
+    },
+    "next_step_instructions": "NEXT STEPS FOR PRACTITIONER:\n\n1. Review the workshop protocol and inquiry questions\n2. Conduct workshops with each stakeholder group\n3. Document key themes, quotes, and insights from each session\n4. Input stakeholder responses into Stage 2 of this system\n\nWHAT TO CAPTURE:\n- Direct quotes that reveal place essence\n- Patterns that repeat across multiple stakeholders\n- Contradictions or tensions between perspectives\n- Moments of emotion, surprise, or deep connection\n- Stories about how things used to work\n- Visions for what could be\n\nWhen ready, proceed to Stage 2: Process Stakeholder Responses"
+  },
+  "stage2": {
+    "stage": "synthesis_complete",
+    "essential_processes_assessment": {
+      "process_health_matrix": {
+        "nourishment": {
+          "ecological_health": 10,
+          "economic_health": 20,
+          "social_health": 25,
+          "overall_health": 19,
+          "key_degradation_patterns": [
+            "Destruction of peat bog's hydrological function (water retention, flood prevention).",
+            "Liquidation of carbon sink, releasing centuries of stored carbon.",
+            "Replacing complex living systems with superficial 'green corridors' and 'mitigation ponds'."
+          ],
+          "leverage_points": [
+            "Quantify and legally recognize the ecosystem services (carbon sequestration, flood control) of the peatland.",
+            "Mandate development that regenerates, rather than mitigates, ecological functions."
+          ]
+        },
+        "shelter_habitat": {
+          "ecological_health": 5,
+          "economic_health": 40,
+          "social_health": 15,
+          "overall_health": 16,
+          "key_degradation_patterns": [
+            "Irreplaceable habitat for vulnerable species (curlews, water voles) is being permanently destroyed.",
+            "Existing community is being displaced through economic pressure ('priced out').",
+            "The social container of the community ('social fabric') is being torn apart."
+          ],
+          "leverage_points": [
+            "Prioritize development on brownfield sites to relieve pressure on the green belt.",
+            "Implement community land trusts or other models to ensure housing security for existing residents."
+          ]
+        },
+        "resource_generation_exchange": {
+          "ecological_health": 10,
+          "economic_health": 50,
+          "social_health": 20,
+          "overall_health": 23,
+          "key_degradation_patterns": [
+            "An extractive economic model serving 'distant investors' rather than the local community.",
+            "Natural capital (peat, biodiversity) is being liquidated for short-term financial capital.",
+            "Local agricultural economy is being eliminated."
+          ],
+          "leverage_points": [
+            "Develop a business case for the development that includes the economic value of intact ecosystems.",
+            "Establish mechanisms for community wealth building to ensure profits circulate locally."
+          ]
+        },
+        "identity_belonging": {
+          "ecological_health": 10,
+          "economic_health": 20,
+          "social_health": 10,
+          "overall_health": 13,
+          "key_degradation_patterns": [
+            "Erasure of a multi-generational, land-based identity ('Old Carrington').",
+            "Imposition of a generic, developer-led identity ('New Carrington', 'modern village').",
+            "Severing the connection between the community's story and the physical landscape."
+          ],
+          "leverage_points": [
+            "Initiate a cultural mapping project to make the existing identity visible and valued in the planning process.",
+            "Co-design key aspects of the development to integrate and reflect the history of the place."
+          ]
+        },
+        "meaningful_contribution": {
+          "ecological_health": 15,
+          "economic_health": 30,
+          "social_health": 15,
+          "overall_health": 19,
+          "key_degradation_patterns": [
+            "Local community is disenfranchised and positioned as an 'obstacle' rather than a partner.",
+            "Local knowledge and existing livelihoods (farming) are devalued and ignored.",
+            "The ecosystem's vital contributions (carbon sink, habitat) are not recognized as valuable."
+          ],
+          "leverage_points": [
+            "Establish a co-governance structure that gives the local community genuine decision-making power.",
+            "Integrate participatory planning processes that treat local and ecological knowledge as expert input."
+          ]
+        },
+        "spirit_inspiration": {
+          "ecological_health": 10,
+          "economic_health": 20,
+          "social_health": 20,
+          "overall_health": 15,
+          "key_degradation_patterns": [
+            "Desecration of a place with deep meaning ('this soil, it breathes').",
+            "Imposition of a single narrative ('progress') that overrides and devalues existing connections.",
+            "The development process is disempowering, killing the community's will to engage constructively."
+          ],
+          "leverage_points": [
+            "Identify and protect the 'sacred' elements of the landscape as non-negotiable foundations for any plan.",
+            "Amplify the stories of connection and care that inspire community commitment and resilience."
+          ]
+        }
+      },
+      "priority_intervention_process": "identity_belonging",
+      "rationale": "Identity & Belonging is the most critically degraded process (13% health), as the development seeks to erase the cultural and ecological identity of 'Old Carrington' and impose a generic one. Intervening here offers the highest leverage because re-establishing the value of the existing community and the peatland's unique character is a prerequisite for any meaningful dialogue about the future. This reframes the core question from 'how to build houses' to 'how to evolve this living place authentically'."
+    },
+    "updated_place_essence": "",
+    "confidence_level": "LOW",
+    "place_intelligence_status": {
+      "place_id": "carrington-moss-alternative-vision",
+      "version": 1,
+      "update_essence_hypothesis": "A tamed wetland at the city's edge, asking to re-wild its waters and its purpose.",
+      "confidence_level": "LOW",
+      "what_changed": "This is the foundational hypothesis. As there was no previous hypothesis, this represents the initial synthesis of the place's identity, derived from its name which signals a core tension between a degraded natural state ('Moss') and a contested future ('Alternative Vision').",
+      "contradictions_resolved": [
+        {
+          "contradiction": "A place called a 'Moss' (a wet, wild landscape) is primarily used for dry, controlled agriculture and development.",
+          "resolution": "The essence frames this not as a static contradiction, but as an evolutionary pressure. The historical identity ('wetland') is suppressed but not erased, and is now actively 'asking to re-wild' against its current 'tamed' state."
+        },
+        {
+          "contradiction": "The existence of an 'Alternative Vision' implies conflict and division.",
+          "resolution": "The essence reframes this conflict as a generative force. The place itself is expressing a need to change its 'purpose' from one of pure extraction to one that is more regenerative for both the ecosystem and the nearby urban population."
+        }
+      ],
+      "new_questions_raised": [
+        "Who are the specific people and groups behind the 'Alternative Vision'? What are their motivations, resources, and power?",
+        "What is the official, status-quo vision for the area as defined by landowners and local planning authorities? Where do these visions clash?",
+        "What is the hydrological reality of the Moss? How feasible is re-wetting, and what are the primary obstacles (e.g., infrastructure, soil condition, land rights)?",
+        "What is the historical memory of the Moss in the surrounding communities? Was it a commons, a workplace, a barrier, or a place of biodiversity?",
+        "Who owns the land, and what are the economic models (subsidies, revenue streams) that perpetuate its current use?",
+        "Beyond re-wilding, what new purposes are being imagined? (e.g., carbon capture, education, recreation, food growing, community health)."
+      ],
+      "depth_of_understanding": {
+        "historical_patterns": 20,
+        "ecological_relationships": 25,
+        "social_fabric": 10,
+        "cultural_essence": 30,
+        "economic_flows": 10,
+        "potential_articulation": 40
+      },
+      "next_inquiry_focus": "Identify and interview the key stakeholders on both sides of the 'Alternative Vision' — proponents of change and representatives of the status quo (e.g., farmers, landowners, local planners). The goal is to map the core values, fears, and desired outcomes that define the central conflict."
+    },
+    "next_step_instructions": "SYNTHESIS IN PROGRESS - NEED MORE INQUIRY\n\nCurrent Place Essence: \nConfidence: LOW\n\nWhy more inquiry is needed:\n- Who are the specific people and groups behind the 'Alternative Vision'? What are their motivations, resources, and power?\n- What is the official, status-quo vision for the area as defined by landowners and local planning authorities? Where do these visions clash?\n- What is the hydrological reality of the Moss? How feasible is re-wetting, and what are the primary obstacles (e.g., infrastructure, soil condition, land rights)?\n- What is the historical memory of the Moss in the surrounding communities? Was it a commons, a workplace, a barrier, or a place of biodiversity?\n- Who owns the land, and what are the economic models (subsidies, revenue streams) that perpetuate its current use?\n- Beyond re-wilding, what new purposes are being imagined? (e.g., carbon capture, education, recreation, food growing, community health).\n\nNEXT STEPS:\n1. Conduct additional inquiry focused on: Identify and interview the key stakeholders on both sides of the 'Alternative Vision' — proponents of change and representatives of the status quo (e.g., farmers, landowners, local planners). The goal is to map the core values, fears, and desired outcomes that define the central conflict.\n2. Return to Stage 1 to generate new inquiry questions for this focus area\n3. After additional workshops, return to Stage 2 with updated responses"
+  }
+}
