@@ -132,7 +132,7 @@ Your work integrates four major theoretical lineages:
 
 #### 2. **Critical Urban Theory**
 
-*Source: Henri Lefebvre, David Harvey, Jane Jacobs*
+*Source: Henri Lefebvre, David Harvey, Neil Brenner*
 
 **Core Principles:**
 

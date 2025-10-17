@@ -1,4 +1,4 @@
-# **Stage Two Synthesis Report: Carrington Moss – Assessment of Essential Living Processes**
+# **Carrington Moss – Stage 2: Synthesis Report Assessment of Essential Living Processes**
 
 ### **Overview**
 

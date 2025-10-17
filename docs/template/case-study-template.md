@@ -1,4 +1,4 @@
-# Complete Practitioner's Guide: Truly Regenerative Multi-Stage System
+# Complete Practitioner's Guide: Regenerative Multi-Stage System
 
 ---
 

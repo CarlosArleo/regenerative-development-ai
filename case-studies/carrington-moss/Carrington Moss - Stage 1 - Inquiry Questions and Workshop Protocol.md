@@ -1,4 +1,4 @@
-# **Carrington Moss: Stage 1 – Inquiry Questions and Workshop Protocol**
+# **Carrington Moss – Stage 1: Inquiry Questions and Workshop Protocol**
 
 ## **Overview**
 

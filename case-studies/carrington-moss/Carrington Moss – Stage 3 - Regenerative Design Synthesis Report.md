@@ -1,4 +1,4 @@
-# **Carrington Moss – Stage 3 Regenerative Design Synthesis Report**
+# **Carrington Moss – Stage 3: Regenerative Design Synthesis Report**
 
 ### **Purpose of Stage 3**
 
