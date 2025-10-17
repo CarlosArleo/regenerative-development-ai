@@ -23,7 +23,7 @@ The complete journey from community need to implementation. All four stages with
 
 How the Community, Practitioner, AI, and Outputs work together in a cyclical relationship.
 
-[View Diagram](visuals/actor-interaction-diagram.md)
+[View Diagram](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md)
 
 **Key insight:** This isn't linear—it's a feedback loop where outputs inform new inquiry and validation.
 
@@ -33,7 +33,7 @@ How the Community, Practitioner, AI, and Outputs work together in a cyclical rel
 
 Deep dive into how the VDK system detects extractive drift and iterates toward constitutionally-aligned governance.
 
-[View Diagram](visuals/vdk-architecture-diagram.md)
+[View Diagram](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/vdk-architecture-diagram.md)
 
 **What it explains:**
 
@@ -49,7 +49,7 @@ Deep dive into how the VDK system detects extractive drift and iterates toward c
 
 The foundational framework that ensures all governance pathways maintain community sovereignty and regenerative intent.
 
-[View Diagram](visuals/seven-principles-diagram.md)
+[View Diagram](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/seven-principles-diagram.md)
 
 **The Seven Principles:**
 
@@ -67,19 +67,19 @@ The foundational framework that ensures all governance pathways maintain communi
 
 ### For Communities
 
-Start with the [Actor Interaction Layers](visuals/actor-interaction-diagram.md) to understand your role throughout the process.
+Start with the [Actor Interaction Layers](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md) to understand your role throughout the process.
 
 ### For Practitioners
 
-Use the [Main Process Flow](visuals/process-flow-diagram.md) as your operational reference during projects. Refer to [Stage Guides](../stage-1-guide.md) for deep dives.
+Use the [Main Process Flow](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/process-flow-diagram.md) as your operational reference during projects. Refer to [Stage Guides](../stage-1-guide.md) for deep dives.
 
 ### For Developers & Architects
 
-Study the [VDK Constitutional Architecture](visuals/vdk-architecture-diagram.md) to understand how the system prevents extractive governance patterns.
+Study the [VDK Constitutional Architecture](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/vdk-architecture-diagram.md) to understand how the system prevents extractive governance patterns.
 
 ### For Policy Makers
 
-Review the [Seven Constitutional Principles](visuals/seven-principles-diagram.md) to understand the theoretical foundation.
+Review the [Seven Constitutional Principles](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/seven-principles-diagram.md) to understand the theoretical foundation.
 
 ---
 
