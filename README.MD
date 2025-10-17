@@ -841,109 +841,7 @@ Join us.
 
 ---
 
-## 🎯 What This README Accomplishes
-
-This theoretical README:
-
-### 1. **Situates the Work Intellectually**
-
-- Bridges regenerative development and critical urban theory explicitly
-- Explains the dialectical architecture and VDK
-- Grounds everything in natural law/social law framework
-- Shows how friction between epistemologies is generative
-
-### 2. **Makes It Accessible**
-
-- Starts with the crisis (people understand problems)
-- Explains technical concepts through application
-- Uses clear tables to synthesize complex ideas
-- Provides examples and validation data
-
-### 3. **Shows the Stakes**
-
-- Climate, inequality, governance failure
-- Why AI matters (both danger and potential)
-- Political commitments made explicit
-- Long-term vision articulated
-
-### 4. **Honors Intellectual Lineages**
-
-- Credits all the theoretical traditions
-- Shows how they're synthesized
-- Acknowledges community organizers and practitioners
-- Positions this as part of larger movements
-
-### 5. **Invites Participation**
-
-- Clear pathways for communities, practitioners, researchers, funders
-- Open about what's needed
-- Transparent about values and commitments
-- Genuinely collaborative framing
-
-### 6. **Validates Through Rigor**
-
-- N=36 study results
-- Six architectural families
-- Quantitative metrics
-- Reproducible methodology
-
----
-
-## 📝 Suggested Placement
-
-**File name:** `README-THEORETICAL.md` or `VISION.md`
-
-
-
-
-
-
-
-
-## Overview
-
-This system democratizes access to regenerative development expertise by providing AI-assisted tools for:
-
-* **Story of Place inquiry** - Generate culturally-appropriate community engagement questions
-* **Essential Processes assessment** - Synthesize stakeholder responses using regenerative frameworks
-* **Design brief creation** - Translate community wisdom into actionable design guidance
-* **Governance harmonization** - Test multiple governance pathways with anti-capture detection (VDK)
-
-**Built for:** Community groups, planning opposition campaigns, CLTs, co-ops, and practitioners working with communities
-
-**Not built for:** Top-down development, extractive projects, or bypassing community engagement
-
----
-
-## Key Features
-
-### **Community Sovereignty First**
-
-* Human-in-the-loop at every stage
-* Community always has final say
-* System assists, never dictates
-
-### **Anti-Capture Detection**
-
-* Verified Dialectical Kernel (VDK) detects extractive drift in governance
-* Prevents gentrification patterns
-* Flags self-justifying extractive language
-
-### **Multiple Valid Pathways**
-
-* Generates 3+ governance scenarios (not one "optimal" solution)
-* Respects place uniqueness
-* Shows honest tradeoffs
-
-### **Professional Quality Outputs**
-
-* Equivalent to £50k+ consulting work
-* Ready for planning applications
-* Suitable for funding proposals
-
----
-
-## Quick Start
+## Quick Start *(wip)*
 
 ### For Practitioners
 
@@ -1052,7 +950,6 @@ AI Flows (TypeScript)
     ├── Three Spheres Synthesis
     └── VDK Governance Harmonization
 ```
-
 
 **Tech Stack:**
 
