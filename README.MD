@@ -775,11 +775,11 @@ This work stands on the shoulders of:
 
 See the complete system visually:
 
-******[**→ View All Diagrams & Guides**](**docs/DIAGRAMS.md**)******
+******[**→ View All Diagrams & Guides**](https://github.com/CarlosArleo/regenerative-development-ai/tree/main/docs/visuals)******
 
 ### Quick Visual Reference
 
-**-****[**Complete Process Flow**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md)****** - All 4 stages at a glance
+**-****[**Complete Process Flow**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/process-flow-diagram.md)****** - All 4 stages at a glance
 
 **-****[**Actor Interactions**](https://github.com/CarlosArleo/regenerative-development-ai/blob/main/docs/visuals/actor-interaction-diagram.md)****** - How Community, Practitioner, and AI work together
 
