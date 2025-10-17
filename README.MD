@@ -215,7 +215,7 @@ This is the architectural innovation: forcing AI to explore only the solution sp
 
 ---
 
-## The Experimental Validation: N=36 Study
+## [The Experimental Validation: N=36 Study](https://github.com/CarlosArleo/regenerative-ai-architecture/tree/main/docs/assets/Constitutional%20AI) *(full report and data)*
 
 We validated this framework through 36 experimental runs generating governance architectures for a real-world scenario:
 
