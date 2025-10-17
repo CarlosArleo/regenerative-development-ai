@@ -1,5 +1,3 @@
-
-
 # Documentation Directory
 
 Complete documentation for the Regenerative Development AI system.
@@ -26,7 +24,15 @@ Complete documentation for the Regenerative Development AI system.
 * **[Theory Guide](theory-guide.md)** - RDD, Critical Theory, VDK explained
 * **[VDK Technical Documentation](vdk-technical.md)** - How VDK works (coming soon)
 
+### Visual Guides
+
+- **[Complete Process Map](DIAGRAMS.md)** - Visual system overview
+- **[Actor Interaction Layers](images/actor-interaction-diagram.svg)** - Who does what
+- **[VDK Architecture](images/vdk-architecture-diagram.svg)** - How it works
+
 ---
+
+
 
 ## Documentation Structure
 

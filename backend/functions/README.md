@@ -1,7 +1,4 @@
-## backend/functions/README.md
-
-<artifact identifier="backend-functions-readme" type="text/markdown" title="backend/functions/README.md">
-# Firebase Functions - Detailed Documentation
+## Firebase Functions - Detailed Documentation
 
 Implementation details for all Cloud Functions.
 
@@ -827,4 +824,3 @@ When adding new functions:
 ## License
 
 CC BY-NC-SA 4.0 - See [LICENSE](../../LICENSE)
-`</artifact>`

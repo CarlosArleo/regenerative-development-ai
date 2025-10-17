@@ -48,7 +48,7 @@ Response to Frontend
 
 ```
 backend/
-├── functions/                 # Firebase Functions code
+├── functions/                # Firebase Functions code
 │   ├── src/
 │   │   ├── index.ts          # Function exports
 │   │   ├── ai/               # AI flows

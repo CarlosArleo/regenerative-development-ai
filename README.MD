@@ -770,6 +770,40 @@ This work stands on the shoulders of:
 
 ---
 
+
+# How It Works (Visual Overview)
+
+See the complete system visually:
+
+******[**→ View All Diagrams & Guides**](**docs/DIAGRAMS.md**)******
+
+**###** Quick Visual Reference
+
+**-****[**Complete Process Flow**](**docs/visuals/process-flow-diagram.md**)****** - All 4 stages at a glance
+**-****[**Actor Interactions**](**docs/visuals/actor-interaction-diagram.md**)****** - How Community, Practitioner, and AI work together
+**-****[**VDK Architecture**](**docs/visuals/vdk-architecture-diagram.md**)****** - How we prevent extractive governance
+**-****[**Constitutional Principles**](**docs/visuals/seven-principles-diagram.md**)****** - The framework that guides everything
+
+**###** The Process (Summary)
+
+**1.****Stage 1****** (2-3 weeks) - Generate Inquiry Questions
+**2.****Stage 2****** (1 week) - Process Responses & Validate Essence
+**3.****Stage 3****** (1 week) - Create Design Brief
+**4.****Stage 4****** (1 week) - Generate & Choose Governance Pathways
+
+******Total:****** 5-7 weeks (vs 4-8 months traditional)
+
+
+| View                       | Purpose                                | Link                                                   |
+| -------------------------- | -------------------------------------- | ------------------------------------------------------ |
+| **Actor Layers**     | Understand who does what at each stage | [View Diagram](docs/images/actor-interaction-diagram.svg) |
+| **VDK Architecture** | Deep dive into constitutional AI       | [View Diagram](docs/images/vdk-architecture-diagram.svg)  |
+| **Mermaid Flow**     | GitHub-compatible version              | [View in Markdown](#mermaid-version)                      |
+
+</div>
+
+---
+
 ## Closing: Why This Matters
 
 Governance is not abstract. It's the structure through which we coordinate collective action to meet shared needs while respecting diverse autonomy.
@@ -818,10 +852,10 @@ This project demonstrates such architectures can be:
 
 ## Get Involved
 
-**Project Repository:** [GitHub URL]
-**Documentation:** [docs/]
-**Contact:** [your-email]
-**Community:** [forum/discord/signal]
+**Project Repository:** [[GitHub URL](https://github.com/CarlosArleo/regenerative-development-ai)]
+**Documentation:** [docs/](https://github.com/CarlosArleo/regenerative-development-ai/tree/main/docs)
+**Contact:** [c.arleo@localis-ai.uk](c.arleo@localis-ai.uk)
+**Community:** [forum/discord/signal] soon
 
 **This is open-source, community-governed research.**
 
