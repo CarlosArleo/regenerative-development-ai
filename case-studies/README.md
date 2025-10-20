@@ -146,3 +146,69 @@ This proposal is a  **robust blueprint** , born from the wisdom of this communit
 It is now presented back to you — not as a final plan — but as a **powerful tool for the next stage of our journey.**
 
 We invite your **feedback, insights, and collaboration** as we work to make this vision a reality.
+
+
+### Final System Diagram
+
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "transparent",
+  "tertiaryColor": "transparent",
+  "edgeLabelBackground": "transparent",
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+  "fontSize": "15px",
+  "lineColor": "#000",
+  "textColor": "#000"
+}}}%%
+graph TD
+
+    subgraph A["LEGAL WRAPPER (SOVEREIGNTY)"]
+        CIO["<b>Charitable Incorporated Organisation (CIO)</b>"]
+        Beneficiary["<b>Primary Beneficiary:</b><br/>The Carrington Moss Ecosystem"]
+        CIO -- "Fiduciary Duty" --> Beneficiary
+    end
+
+    subgraph B["GOVERNANCE ENGINE (HUMAN LAYER)"]
+        P["<b>Proposal</b>"]
+        Council{"<b>Multi-Chamber Council</b>"}
+        Decision["<b>Decision</b>"]
+        P --> Council
+        Council -- "Consensus" --> Decision
+    end
+
+    subgraph C["ECONOMIC ENGINE (VIABILITY)"]
+        Dashboard["<b>Living Moss Dashboard</b>"]
+        VLB["<b>Vitality-Linked Budgeting</b>"]
+        Budget["<b>Operational Budget</b>"]
+        Dashboard -- "Informs" --> VLB
+        VLB -- "Calculates" --> Budget
+    end
+
+    Beneficiary -- "Has a Voice Via" --> Council
+    Council -- "Is Funded By" --> Budget
+    Budget -- "Is Determined By" --> Dashboard
+    Dashboard -- "Measures Health Of" --> Beneficiary
+
+    style CIO stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Beneficiary stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style P stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Council stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Decision stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Dashboard stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style VLB stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Budget stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style A stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style B stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style C stroke:#000,stroke-width:1px,fill:transparent,color:#000
+
+```
+
+### The Meta-Pattern: How This System Solves Problems
+
+The system's "signature move" or meta-pattern can be distilled into a repeatable thinking process:
+
+1. **Embody the Place:** Ingest and synthesize the unique history, ecology, and cultural essence of the place (`__init__`, `analyze_historical_layers`).
+2. **Translate Essence into Structure:** Reframe the core problem by designing a legal and governance architecture that gives the place-essence real power (e.g., the CIO with the Moss as beneficiary).
+3. **Create Feedback Loops:** Design mechanisms that link the health of the living system directly to the power and resources of the human system (the Dashboard, Vitality-Linked Budgeting, and the Ecological Veto).
+4. **Dialectically Harden:** Use iterative, multi-layered critique to identify and close vulnerabilities, moving from fixing simple bugs to refining deep architectural logic.
+5. **Identify the Human Role:** Recognize the limits of its own logic and create clear "interfaces" where human wisdom and collective decision-making are required (e.g., setting the veto thresholds).
