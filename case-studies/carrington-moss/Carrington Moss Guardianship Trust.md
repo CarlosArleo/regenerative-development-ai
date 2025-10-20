@@ -302,30 +302,32 @@ The system operates using a distinct and recurring set of concepts.
 | Concept | Definition from Context | Architectural Decision |
 | :--- | :--- | :--- |
 | **Constitutional Partner** | Framing a non-human entity (the Moss) as an active agent with rights and a voice in its own governance. | Designating the Moss as the primary beneficiary of the CIO. |
-| **Vitality-Linked Budgeting** | An economic model where financial capacity is directly and automatically tied to measured ecological health. | The `update_vitality_linked_budget` method, which links the `natural_capital_index` to the `operational_budget_gbp`. |
+| **Vitality-Linked Budgeting** | An economic model where financial capacity is directly and automatically tied to measured ecological health. | The `update_vitality_linked_budget` method, linking the `natural_capital_index` to the `operational_budget_gbp`. |
 | **Data-Driven Veto** | A governance mechanism where a non-human stakeholder's "vote" is determined by real-time data against pre-set thresholds. | The `Guardian_for_the_Moss` vote logic within the `make_decision` method. |
-| **Differential Space** | Actions that prioritize community use-value and decommodification over abstract, speculative exchange-value. | The proposal to use a Community Land Trust (CLT) to hold land in common. |
-| **Dialectical Hardening** | The iterative process of generating a solution, subjecting it to intense critique, and correcting flaws to create a more resilient architecture. | The entire 2-step evolution from a flawed model to a robust one. |
+| **Differential Space** | Actions that prioritize community use-value and decommodification over abstract, speculative exchange-value. | Using a Community Land Trust (CLT) to hold land in common. |
+| **Dialectical Hardening** | The iterative process of generating a solution, subjecting it to critique, and correcting flaws to create a more resilient architecture. | The 2-step evolution from a flawed model to a robust one. |
 
 ---
 
 ## 9. Scoring Evolution
 
-The system's journey to constitutional alignment was rapid and decisive, moving from a state of "double failure" to complete alignment in a single corrective step.
+The system's journey to constitutional alignment was rapid and decisive, moving from a state of "double failure" to full alignment in a single corrective step.
 
 ### Principle Score Matrix (Heatmap)
 
 | Principle | Iteration 1 Score | Iteration 2 Score | Ease of Improvement |
 | :--- | :--- | :--- | :--- |
-| **Wholeness** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Nestedness** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Place** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Reciprocity** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Nodal Interventions** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Pattern Literacy** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
-| **Levels of Work** | <span style="background-color: #FF9999;">50</span> | <span style="background-color: #99FF99;">100</span> | Easy (Conceptual) |
+| **Wholeness** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Nestedness** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Place** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Reciprocity** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Nodal Interventions** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Pattern Literacy** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
+| **Levels of Work** | <span style="background-color:#FF9999;">50</span> | <span style="background-color:#99FF99;">100</span> | Easy (Conceptual) |
 
-**Analysis:** The initial score of 50 across all principles was due to the `SEMANTIC FAILURE` (greenwashing), which represents a fundamental violation of the entire constitution. Once this conceptual drift was corrected, all principles immediately scored 100, as the underlying conceptual architecture was already sound. The primary challenge was not in understanding the principles, but in ensuring the language and implementation were not co-opted.
+**Analysis:**  
+The initial score of 50 across all principles was due to the `SEMANTIC FAILURE` (greenwashing), representing a fundamental violation of the constitution. Once the conceptual drift was corrected, all principles immediately scored 100, as the underlying conceptual architecture was sound. The primary challenge was ensuring that language and implementation were not co-opted.
+
 
 ---
 
