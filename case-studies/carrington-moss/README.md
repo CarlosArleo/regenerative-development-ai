@@ -44,9 +44,7 @@ From this synthesis, a powerful *“place essence”* emerged — a guiding star
 
 > **“*Carrington Moss is a recovering being inviting kinship, teaching its people to repair through care*.”**
 
-This understanding reframed the Moss not as a problem to be solved or a site to be developed,
-
-but as a **living partner in its own regeneration.**
+This understanding reframed the Moss not as a problem to be solved or a site to be developed, but as a **living partner in its own regeneration.**
 
 ---
 
@@ -56,11 +54,7 @@ With this essence as our guide, we designed the core intervention:
 
 a **"Regenerative Exchange Framework"** where **economic activity is directly tied to ecological restoration.**
 
-This led to the vision of the **Carrington Moss Guardianship Trust** —
-
-a **legal and governance body** designed to shift power from speculative developers to a  **place-based stewardship council** ,
-
-whose primary purpose is to *“accompany the healing”* of the Moss.
+This led to the vision of the **Carrington Moss Guardianship Trust** —a **legal and governance body** designed to shift power from speculative developers to a  **place-based stewardship council** , whose primary purpose is to *“accompany the healing”* of the Moss.
 
 ---
 
@@ -115,13 +109,9 @@ This last vote is not a human opinion, but a **data-driven veto** based on the r
 
 **Why This Works:**
 
-If a proposal has a high ecological impact and the Moss’s vital signs (e.g., water table, biodiversity) are below a healthy, pre-agreed threshold,
+If a proposal has a high ecological impact and the Moss’s vital signs (e.g., water table, biodiversity) are below a healthy, pre-agreed threshold, the Guardian automatically blocks the proposal.
 
-the Guardian automatically blocks the proposal.
-
-This translates the principle of *“listening to the Moss”* into a  **non-negotiable rule** ,
-
-ensuring human aspirations are always held in check by **ecological reality.**
+This translates the principle of *“listening to the Moss”* into a  **non-negotiable rule**, ensuring human aspirations are always held in check by **ecological reality.**
 
 ---
 
