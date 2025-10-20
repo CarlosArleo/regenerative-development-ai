@@ -8,7 +8,7 @@ Carrington, Greater Manchester, UK
 
 ## Bioregion:
 
-Mersey Basin / Greater Manchester Wetlands.[2][3]
+Mersey Basin / Greater Manchester Wetlands
 
 ### The Complex Web of Tensions at Carrington Moss
 
@@ -30,7 +30,7 @@ Release from Degraded Peat: Healthy peatlands are vital carbon sinks, but
 degraded ones, like much of Carrington Moss, release stored carbon into the
 atmosphere, contributing to climate change.[7][8][9] The drainage and
 alteration of the moss for agriculture and industry have turned a carbon store
-into a carbon source.[10][11]
+into a carbon source.
 
 •              Loss of
 Traditional Ecological Knowledge: As generations become more disconnected from
@@ -40,20 +40,20 @@ mosslands and their unique ecosystems.
 •              Legacy
 of Industrial Pollution: The area's industrial past, including the former Shell
 chemical works, has left a legacy of soil and water contamination, posing
-challenges for ecological restoration and safe land use.[1][5]
+challenges for ecological restoration and safe land use.
 
 •              Urban
 Expansion and Water Cycles: The increasing urbanization of Greater Manchester
 alters natural water cycles.[12] Development on and around Carrington Moss,
 with the creation of impermeable surfaces, could exacerbate flooding in a
-region already susceptible to extreme weather.[5][6][13]
+region already susceptible to extreme weather.
 
 •              Economic
 Decline and the Need for Sustainable Livelihoods: The decline of heavy industry
 in the latter half of the 20th century led to significant job losses.[5] While
 new developments promise economic activity, there is a push for more
 sustainable, regenerative economic models that align with the area's natural
-assets.[14][15][16]
+assets.
 
 •              M60
 Motorway and Wildlife Corridors: The M60 motorway acts as a significant
@@ -65,7 +65,7 @@ vs. Regenerative Business Models: The prevailing economic models often
 prioritize extraction and short-term gains.[15] There is a growing movement
 advocating for regenerative approaches that would restore the ecological health
 of Carrington Moss while creating long-term, sustainable economic
-benefits.[14][17]
+benefits.
 
 ## The current state of Carrington Moss is a direct result of
 centuries of human intervention and shifting land-use priorities.
