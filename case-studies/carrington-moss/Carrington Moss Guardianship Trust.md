@@ -15,29 +15,50 @@ The system was spawned from the foundational contradiction between the urgent ne
 ### Conceptual Lineage
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "transparent",
+  "tertiaryColor": "transparent",
+  "edgeLabelBackground": "transparent",
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+  "fontSize": "15px",
+  "lineColor": "#000",
+  "textColor": "#000"
+}}}%%
 graph TD
-    subgraph "Initial Prompt & Context"
-        P["'A recovering being inviting kinship...'<br/>(Validated Place Essence)"]
-        T["Key Tensions<br/>(Housing vs. Peatland, Pollution Legacy)"]
-        S["Stakeholder Commitments<br/>(Elders, Youth, Municipality)"]
+
+    subgraph A["INITIAL CONTEXT"]
+        P["<b>Validated Place Essence</b><br/>'A recovering being inviting kinship…'"]
+        T["<b>Key Tensions</b><br/>Housing vs. Peatland · Pollution Legacy"]
+        S["<b>Stakeholder Commitments</b><br/>Elders · Youth · Municipality"]
     end
 
-    subgraph "Core Contradiction"
-        F1["Force A: Extractive Urban Development<br/>(Places for Everyone Plan, Housing Targets)"]
-        F2["Force B: Regenerative Ecological Stewardship<br/>(Community Opposition, Place Essence)"]
+    subgraph B["CORE CONTRADICTION"]
+        F1["<b>Force A</b><br/>Extractive Urban Development<br/>(‘Places for Everyone’, Housing Targets)"]
+        F2["<b>Force B</b><br/>Regenerative Ecological Stewardship<br/>(Community Opposition, Place Essence)"]
+    end
+
+    subgraph C["GOVERNANCE DESIGN CHALLENGE"]
+        Problem["<b>Foundational Problem</b><br/>Design a governance system that can<br/>hold this tension productively — making<br/>regeneration more viable than extraction."]
     end
 
     P --> F2
     T --> F1
     T --> F2
     S --> F2
-
     F1 -- clashes with --> F2
-  
-    Problem("<b>Foundational Problem:</b><br/>Design a governance system that can<br/>hold this tension productively, making<br/>regeneration more viable than extraction.")
-
     F1 --> Problem
     F2 --> Problem
+
+    style P stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style T stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style S stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style F1 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style F2 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Problem stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style A stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style B stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style C stroke:#000,stroke-width:1px,fill:transparent,color:#000
+
 ```
 
 ### Core Tensions of the Initial Prompt
@@ -173,38 +194,56 @@ The system's evolution was driven by a combination of external constitutional re
 ### Pressure Diagram
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "transparent",
+  "tertiaryColor": "transparent",
+  "edgeLabelBackground": "transparent",
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+  "fontSize": "15px",
+  "lineColor": "#000",
+  "textColor": "#000"
+}}}%%
 graph TD
-    subgraph "External Pressures (The Constitution)"
-        C1[Principle: Wholeness]
-        C2[Principle: Place]
-        C3[Principle: Reciprocity]
+
+    subgraph A["EXTERNAL PRESSURES (THE CONSTITUTION)"]
+        C1["<b>Principle:</b> Wholeness"]
+        C2["<b>Principle:</b> Place"]
+        C3["<b>Principle:</b> Reciprocity"]
     end
 
-    subgraph "Internal Pressures (The VDK)"
-        V1["Critique Engine<br/>(Identifies flaws)"]
-        V2["Semantic Audit<br/>(Detects co-opted language)"]
-        V3["Alignment Scorer<br/>(Measures success)"]
+    subgraph B["INTERNAL PRESSURES (THE VDK)"]
+        V1["<b>Critique Engine</b><br/>(Identifies flaws)"]
+        V2["<b>Semantic Audit</b><br/>(Detects co-opted language)"]
+        V3["<b>Alignment Scorer</b><br/>(Measures success)"]
     end
 
-    G1[Initial Generation (Iteration 1)]
-  
+    G1["<b>Initial Generation</b><br/>(Iteration 1)"]
+    G2["<b>Corrected Generation</b><br/>(Iteration 2)"]
+
     C1 --> V1
     C2 --> V2
     C3 --> V1
 
     V1 -- "CRITICAL FLAW:<br/>Hardcoded votes" --> G1
     V2 -- "SEMANTIC FAILURE:<br/>'green capitalism'" --> G1
-  
-    G1 -- "Score: 50%" --> V3
 
-    G2[Corrected Generation (Iteration 2)]
+    G1 -- "Score: 50%" --> V3
     G1 --> G2
 
     V1 -- "CRITICAL FLAW:<br/>'magic number'" --> G2
     G2 -- "Score: 100%" --> V3
 
-    style G1 fill:#fbb,stroke:#b00
-    style G2 fill:#bfb,stroke:#0b0
+    style C1 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style C2 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style C3 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style V1 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style V2 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style V3 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style G1 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style G2 stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style A stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style B stroke:#000,stroke-width:1px,fill:transparent,color:#000
+
 ```
 
 The **Alignment Scorer** acts as the ultimate arbiter, enforcing quality by terminating the loop only when a score of 100 is achieved. The critiques from the VDK are the specific evolutionary pressures that force the system to adapt its code to meet the constitutional requirements.
@@ -334,30 +373,56 @@ The system produces several key artifacts that serve as tools for the community.
 ### Final System Diagram
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "transparent",
+  "tertiaryColor": "transparent",
+  "edgeLabelBackground": "transparent",
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+  "fontSize": "15px",
+  "lineColor": "#000",
+  "textColor": "#000"
+}}}%%
 graph TD
-    subgraph "Legal Wrapper (Sovereignty)"
-        CIO["Charitable Incorporated Organisation (CIO)"]
-        Beneficiary["Primary Beneficiary:<br/><b>The Carrington Moss Ecosystem</b>"]
-        CIO -- Fiduciary Duty --> Beneficiary
+
+    subgraph A["LEGAL WRAPPER (SOVEREIGNTY)"]
+        CIO["<b>Charitable Incorporated Organisation (CIO)</b>"]
+        Beneficiary["<b>Primary Beneficiary:</b><br/>The Carrington Moss Ecosystem"]
+        CIO -- "Fiduciary Duty" --> Beneficiary
     end
 
-    subgraph "Governance Engine (Human Layer)"
-        Council{Multi-Chamber Council}
-        P[Proposal] --> Council
-        Council -- Consensus --> Decision[Decision]
+    subgraph B["GOVERNANCE ENGINE (HUMAN LAYER)"]
+        P["<b>Proposal</b>"]
+        Council{"<b>Multi-Chamber Council</b>"}
+        Decision["<b>Decision</b>"]
+        P --> Council
+        Council -- "Consensus" --> Decision
     end
 
-    subgraph "Economic Engine (Viability)"
-        VLB["Vitality-Linked Budgeting"]
-        Dashboard["Living Moss Dashboard"]
-        VLB -- Calculates --> Budget[Operational Budget]
-        Dashboard -- Informs --> VLB
+    subgraph C["ECONOMIC ENGINE (VIABILITY)"]
+        Dashboard["<b>Living Moss Dashboard</b>"]
+        VLB["<b>Vitality-Linked Budgeting</b>"]
+        Budget["<b>Operational Budget</b>"]
+        Dashboard -- "Informs" --> VLB
+        VLB -- "Calculates" --> Budget
     end
 
     Beneficiary -- "Has a Voice Via" --> Council
     Council -- "Is Funded By" --> Budget
     Budget -- "Is Determined By" --> Dashboard
     Dashboard -- "Measures Health Of" --> Beneficiary
+
+    style CIO stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Beneficiary stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style P stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Council stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Decision stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Dashboard stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style VLB stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style Budget stroke:#000,stroke-width:2px,fill:transparent,color:#000
+    style A stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style B stroke:#000,stroke-width:1px,fill:transparent,color:#000
+    style C stroke:#000,stroke-width:1px,fill:transparent,color:#000
+
 ```
 
 ### The Meta-Pattern: How This System Solves Problems
