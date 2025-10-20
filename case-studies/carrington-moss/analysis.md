@@ -1,7 +1,4 @@
-
----
-
-### **Analysis of the WFF Governance Proposal for Carrington Moss**
+# Analysis of the WFF Governance Proposal for Carrington Moss
 
 **To:** Friends of Carrington Moss & Project Stakeholders
 **From:** Regenerative Inquiry Lab

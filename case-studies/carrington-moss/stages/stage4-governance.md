@@ -1,7 +1,4 @@
-
----
-
-### **Stage 4: Governance Protocol**
+# **Stage 4: Governance Protocol**
 
 **Completion Status:**
 

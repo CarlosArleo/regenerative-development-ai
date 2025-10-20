@@ -1,4 +1,3 @@
-
 # **From Community Wisdom to a Living Constitution**
 
 ### *A Proposal for the Future of Carrington Moss*
@@ -146,7 +145,6 @@ This proposal is a  **robust blueprint** , born from the wisdom of this communit
 It is now presented back to you — not as a final plan — but as a **powerful tool for the next stage of our journey.**
 
 We invite your **feedback, insights, and collaboration** as we work to make this vision a reality.
-
 
 ### Final System Diagram
 
