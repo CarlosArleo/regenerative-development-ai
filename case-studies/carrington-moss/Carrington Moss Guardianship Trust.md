@@ -78,6 +78,15 @@ The final system (`CarringtonMossGuardianshipTrust` class) is a multi-layered ar
 ### Structural Diagram
 
 ```mermaid
+%%{init: {"theme": "base", "themeVariables": {
+  "primaryColor": "transparent",
+  "tertiaryColor": "transparent",
+  "edgeLabelBackground": "transparent",
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+  "fontSize": "15px",
+  "lineColor": "#000",
+  "textColor": "#000"
+}}}%%
 classDiagram
     class CarringtonMossGuardianshipTrust {
         +__init__(...)
@@ -97,6 +106,9 @@ classDiagram
         +make_decision(proposal, chamber_votes)
         +update_vitality_linked_budget()
     }
+
+    style CarringtonMossGuardianshipTrust stroke:#000,stroke-width:2px,fill:transparent,color:#000
+
 ```
 
 ### Component-Purpose Mapping
