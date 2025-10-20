@@ -343,6 +343,9 @@ graph TD
 
 This multi-level critique is what allows the system to achieve not just functional correctness, but deep constitutional alignment.
 
+
+
+
 ---
 
 ## 11. Output Artifacts
