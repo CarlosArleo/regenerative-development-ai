@@ -1,84 +1,65 @@
 
-%%{init: {"theme": "base", "themeVariables": {
-  "primaryColor": "transparent",
-  "tertiaryColor": "transparent",
-  "edgeLabelBackground": "transparent",
-  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
-  "fontSize": "15px",
-  "lineColor": "#000",
-  "textColor": "#000"
-}}}%%
-graph TD
-    Start([`<b>`User Request`</b>`]) --> Init["`<b>`Initialize Pipeline`</b><br/>`sessionId · logger · timestamp"]
+flowchart TD
+    Start([User Request]) --> Init[Initialize Pipeline\nsessionId · logger · timestamp]
 
-    Init --> LoadConst["`<b>`Load Constitution v3.1`</b>`"]
+    Init --> LoadConst[Load Constitution v3.1]
 
-    LoadConst --> RAG["`<b>`RAG:`</b>` Retrieve Context`<br/><i>`retrieveRelevantContext()`</i>`"]
+    LoadConst --> RAG[RAG: Retrieve Context\nretrieveRelevantContext()]
 
-    RAG --> Phase1{{"`<b>`PHASE 1`</b><br/>`Diagnostic Assessment"}}
+    RAG --> Phase1{{PHASE 1:\nDiagnostic Assessment}}
 
-    Phase1 --> RH["Assess Relational Health`<br/><i>`assessRelationalHealth()`</i>`"]
+    Phase1 --> RH[Assess Relational Health\nassessRelationalHealth()]
 
-    RH --> RHScore["`<b>`RH Score:`</b>` 0.0–1.0`<br/>`Structural Violations · Recommendations"]
+    RH --> RHScore[RH Score: 0.0–1.0\nStructural Violations · Recommendations]
 
-    RHScore --> ModeDecision{"`<b>`Mode Selection Logic`</b>`"}
+    RHScore --> ModeDecision{"Mode Selection Logic"}
 
     %% Mode Selection Branches
-    ModeDecision -- "Force Synthesis`<br/>`(override flag)" --> ForcedSynth["`<b>`SYNTHESIS_WITH_WARNINGS`</b>`"]
-    ModeDecision -- "Generate Both`<br/>`(research mode)" --> BothModes["`<b>`Generate BOTH`</b><br/>`Diagnostic + Proposal"]
-    ModeDecision -- "RH ≥ 0.7`<br/>`(healthy)" --> HealthySynth["`<b>`SYNTHESIS MODE`</b>`"]
-    ModeDecision -- "RH 0.4–0.7`<br/>`(messy)" --> MessySynth["`<b>`SYNTHESIS_WITH_WARNINGS`</b>`"]
-    ModeDecision -- "RH < 0.4`<br/>`(compromised)" --> Transform["`<b>`TRANSFORMATION MODE`</b>`"]
+    ModeDecision -->|Force Synthesis\n(override flag)| ForcedSynth[SYNTHESIS_WITH_WARNINGS]
+    ModeDecision -->|Generate Both\n(research mode)| BothModes[Generate BOTH:\nDiagnostic + Proposal]
+    ModeDecision -->|RH ≥ 0.7\n(healthy)| HealthySynth[SYNTHESIS MODE]
+    ModeDecision -->|RH 0.4–0.7\n(messy)| MessySynth[SYNTHESIS_WITH_WARNINGS]
+    ModeDecision -->|RH < 0.4\n(compromised)| Transform[TRANSFORMATION MODE]
 
     %% Synthesis Path
-    ForcedSynth --> SynthMode["runSynthesisMode()"]
-    BothModes --> DiagMode["runTransformationMode()"]
+    ForcedSynth --> SynthMode[runSynthesisMode()]
+    BothModes --> DiagMode[runTransformationMode()]
     DiagMode --> SynthMode
     HealthySynth --> SynthMode
     MessySynth --> SynthMode
 
-    SynthMode --> DialecticalLoop{{"`<b>`Dialectical Loop`</b><br/>`(Iterative Refinement)"}}
+    SynthMode --> DialecticalLoop{{Dialectical Loop\n(Iterative Refinement)}}
 
     %% Transformation Path
-    Transform --> DiagnosticLoop{{"`<b>`Diagnostic Loop`</b><br/>`(Single Pass)"}}
+    Transform --> DiagnosticLoop{{Diagnostic Loop\n(Single Pass)}}
 
     %% Dialectical Loop Detail
-    DialecticalLoop --> Generate1["`<b>`GENERATE:`</b>` Initial Proposal"]
-    Generate1 --> Iterate["Iteration Loop`<br/>`(max 10 attempts)"]
-    Iterate --> Critique["`<b>`CRITIQUE:`</b>` Evaluate`<br/>`Against Constitution"]
-    Critique --> Scores["`<b>`Calculate Scores:`</b><br/>`principleScores · finalAlignmentScore"]
-    Scores --> Converged{"`<b>`Converged?`</b><br/>`Score ≥ 100%"}
+    DialecticalLoop --> Generate1[GENERATE: Initial Proposal]
+    Generate1 --> Iterate[Iteration Loop\n(max 10 attempts)]
+    Iterate --> Critique[CRITIQUE: Evaluate\nAgainst Constitution]
+    Critique --> Scores[Calculate Scores:\nprincipleScores · finalAlignmentScore]
+    Scores --> Converged{"Converged?\nScore ≥ 100%"}
 
-    Converged -- Yes --> LoopComplete["Loop Complete"]
-    Converged -- "No · Max Iterations" --> LoopComplete
-    Converged -- "No · Continue" --> Correct["`<b>`CORRECT:`</b>` Refine Proposal"]
+    Converged -->|Yes| LoopComplete[Loop Complete]
+    Converged -->|"No · Max Iterations"| LoopComplete
+    Converged -->|"No · Continue"| Correct[CORRECT: Refine Proposal]
     Correct --> Iterate
 
     %% Diagnostic Loop Detail
-    DiagnosticLoop --> DiagGen["`<b>`GENERATE:`</b>` Diagnostic Report"]
-    DiagGen --> DiagComplete["Diagnostic Complete"]
+    DiagnosticLoop --> DiagGen[GENERATE: Diagnostic Report]
+    DiagGen --> DiagComplete[Diagnostic Complete]
 
     %% Convergence
-    LoopComplete --> AddMeta["`<b>`Add Metadata:`</b><br/>`mode · rhScore · warnings · diagnostic"]
+    LoopComplete --> AddMeta[Add Metadata:\nmode · rhScore · warnings · diagnostic]
     DiagComplete --> AddMeta
 
-    AddMeta --> Valuation{"`<b>`SYNTHESIS Mode?`</b>`"}
+    AddMeta --> Valuation{"SYNTHESIS Mode?"}
 
-    Valuation -- Yes --> GenQuestionnaire["Generate Valuation Questionnaire"]
-    Valuation -- No --> FinalAnalysis
+    Valuation -->|Yes| GenQuestionnaire[Generate Valuation Questionnaire]
+    Valuation -->|No| FinalAnalysis
 
-    GenQuestionnaire --> FinalAnalysis["Generate Final Analysis Report"]
+    GenQuestionnaire --> FinalAnalysis[Generate Final Analysis Report]
 
-    FinalAnalysis --> SaveSession["Save to Firestore`<br/>`Log Complete Session"]
+    FinalAnalysis --> SaveSession[Save to Firestore\nLog Complete Session]
 
-    SaveSession --> End([`<b>`Return Result`</b>`])
-
-    %% Styling
-    style Start stroke:#000,stroke-width:2px,fill:transparent,color:#000
-    style End stroke:#000,stroke-width:2px,fill:transparent,color:#000
-    style Phase1 stroke:#000,stroke-width:2px,fill:transparent,color:#000
-    style DialecticalLoop stroke:#000,stroke-width:2px,fill:transparent,color:#000
-    style DiagnosticLoop stroke:#000,stroke-width:2px,fill:transparent,color:#000
-    style ModeDecision stroke:#000,stroke-dasharray:4 3,fill:transparent,color:#000
-    style Converged stroke:#000,stroke-dasharray:4 3,fill:transparent,color:#000
-    style Valuation stroke:#000,stroke-dasharray:4 3,fill:transparent,color:#000
+    SaveSession --> End([Return Result])
