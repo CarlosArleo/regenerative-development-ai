@@ -1,37 +1,55 @@
 
+%%{init: {"theme": "base", "themeVariables": {
+
+  "primaryColor": "transparent",
+
+  "tertiaryColor": "transparent",
+
+  "edgeLabelBackground":"transparent",
+
+  "fontFamily": "Inter, Helvetica, Arial, sans-serif",
+
+  "fontSize": "14px",
+
+  "lineColor": "#000",
+
+  "textColor": "#000"
+
+}}}%%
+
 flowchartTD
 
-    Start([User Request])-->Init[Initialize Pipeline\nsessionId · logger · timestamp]
+    Start(["`<b>`User Request`</b>`"])-->Init["`<b>`Initialize Pipeline`</b><br/>`sessionId · logger · timestamp"]
 
-    Init-->LoadConst[Load Constitution v3.1]
+    Init-->LoadConst["`<b>`Load Constitution v3.1`</b>`"]
 
-    LoadConst-->RAG[RAG: Retrieve Context\nretrieveRelevantContext]
+    LoadConst-->RAG["`<b>`RAG:`</b>` Retrieve Context`<br/>`retrieveRelevantContext()"]
 
-    RAG-->Phase1{{PHASE 1:\nDiagnostic Assessment}}
+    RAG-->Phase1{{"`<b>`PHASE 1:`</b><br/>`Diagnostic Assessment"}}
 
-    Phase1-->RH[Assess Relational Health\nassessRelationalHealth]
+    Phase1-->RH["Assess Relational Health`<br/>`assessRelationalHealth()"]
 
-    RH-->RHScore[RH Score: 0.0–1.0\nStructural Violations · Recommendations]
+    RH-->RHScore["`<b>`RH Score:`</b>` 0.0–1.0`<br/>`Structural Violations · Recommendations"]
 
-    RHScore-->ModeDecision{"Mode Selection Logic"}
+    RHScore-->ModeDecision{"`<b>`Mode Selection Logic`</b>`"}
 
     %% Mode Selection Branches
 
-    ModeDecision-->|"Force Synthesis\n(override flag)"|ForcedSynth[SYNTHESIS_WITH_WARNINGS]
+    ModeDecision-->|"Force Synthesis`<br/>`(override flag)"|ForcedSynth["SYNTHESIS_WITH_WARNINGS"]
 
-    ModeDecision-->|"Generate Both\n(research mode)"|BothModes[Generate BOTH:\nDiagnostic + Proposal]
+    ModeDecision-->|"Generate Both`<br/>`(research mode)"|BothModes["Generate BOTH:`<br/>`Diagnostic + Proposal"]
 
-    ModeDecision-->|"RH ≥ 0.7\n(healthy)"|HealthySynth[SYNTHESIS MODE]
+    ModeDecision-->|"RH ≥ 0.7`<br/>`(healthy)"|HealthySynth["SYNTHESIS MODE"]
 
-    ModeDecision-->|"RH 0.4–0.7\n(messy)"|MessySynth[SYNTHESIS_WITH_WARNINGS]
+    ModeDecision-->|"RH 0.4–0.7`<br/>`(messy)"|MessySynth["SYNTHESIS_WITH_WARNINGS"]
 
-    ModeDecision-->|"RH < 0.4\n(compromised)"|Transform[TRANSFORMATION MODE]
+    ModeDecision-->|"RH < 0.4`<br/>`(compromised)"|Transform["TRANSFORMATION MODE"]
 
     %% Synthesis Path
 
-    ForcedSynth-->SynthMode[runSynthesisMode]
+    ForcedSynth-->SynthMode["runSynthesisMode()"]
 
-    BothModes-->DiagMode[runTransformationMode]
+    BothModes-->DiagMode["runTransformationMode()"]
 
     DiagMode-->SynthMode
 
@@ -39,52 +57,52 @@ flowchartTD
 
     MessySynth-->SynthMode
 
-    SynthMode-->DialecticalLoop{{Dialectical Loop\nIterative Refinement}}
+    SynthMode-->DialecticalLoop{{"Dialectical Loop`<br/>`Iterative Refinement"}}
 
     %% Transformation Path
 
-    Transform-->DiagnosticLoop{{Diagnostic Loop\nSingle Pass}}
+    Transform-->DiagnosticLoop{{"Diagnostic Loop`<br/>`Single Pass"}}
 
     %% Dialectical Loop Detail
 
-    DialecticalLoop-->Generate1[GENERATE: Initial Proposal]
+    DialecticalLoop-->Generate1["GENERATE:`<br/>`Initial Proposal"]
 
-    Generate1-->Iterate[Iteration Loop\nmax 10 attempts]
+    Generate1-->Iterate["Iteration Loop`<br/>`max 10 attempts"]
 
-    Iterate-->Critique[CRITIQUE: Evaluate\nAgainst Constitution]
+    Iterate-->Critique["CRITIQUE:`<br/>`Evaluate Against Constitution"]
 
-    Critique-->Scores[Calculate Scores:\nprincipleScores · finalAlignmentScore]
+    Critique-->Scores["Calculate Scores:`<br/>`principleScores · finalAlignmentScore"]
 
-    Scores-->Converged{"Converged?\nScore ≥ 100%"}
+    Scores-->Converged{"Converged?`<br/>`Score ≥ 100%"}
 
-    Converged-->|Yes|LoopComplete[Loop Complete]
+    Converged-->|Yes|LoopComplete["Loop Complete"]
 
     Converged-->|"No · Max Iterations"|LoopComplete
 
-    Converged-->|"No · Continue"|Correct[CORRECT: Refine Proposal]
+    Converged-->|"No · Continue"|Correct["CORRECT:`<br/>`Refine Proposal"]
 
     Correct-->Iterate
 
     %% Diagnostic Loop Detail
 
-    DiagnosticLoop-->DiagGen[GENERATE: Diagnostic Report]
+    DiagnosticLoop-->DiagGen["GENERATE:`<br/>`Diagnostic Report"]
 
-    DiagGen-->DiagComplete[Diagnostic Complete]
+    DiagGen-->DiagComplete["Diagnostic Complete"]
 
     %% Convergence
 
-    LoopComplete-->AddMeta[Add Metadata:\nmode · rhScore · warnings · diagnostic]
+    LoopComplete-->AddMeta["Add Metadata:`<br/>`mode · rhScore · warnings · diagnostic"]
 
     DiagComplete-->AddMeta
 
     AddMeta-->Valuation{"SYNTHESIS Mode?"}
 
-    Valuation-->|Yes|GenQuestionnaire[Generate Valuation Questionnaire]
+    Valuation-->|Yes|GenQuestionnaire["Generate Valuation Questionnaire"]
 
-    Valuation-->|No|FinalAnalysis
+    Valuation-->|No|FinalAnalysis["Generate Final Analysis Report"]
 
-    GenQuestionnaire-->FinalAnalysis[Generate Final Analysis Report]
+    GenQuestionnaire-->FinalAnalysis
 
-    FinalAnalysis-->SaveSession[Save to Firestore\nLog Complete Session]
+    FinalAnalysis-->SaveSession["Save to Firestore`<br/>`Log Complete Session"]
 
-    SaveSession-->End([Return Result])
+    SaveSession-->End(["`<b>`Return Result `</b>`"])
